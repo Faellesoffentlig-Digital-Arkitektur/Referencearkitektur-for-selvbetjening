@@ -2,13 +2,13 @@
 
 ## Forord
 
-Denne referencearkitektur er udarbejdet som led i realiseringen af initiativ 1.2 i den fællesoffentlige digitaliseringsstrategi 2016-2020.
+Denne referencearkitektur er udarbejdet som led i realiseringen af et af initiativerne i de løbende fællesoffentlige digitaliseringsstrategier.
 
 Fællesoffentlig referencearkitektur for selvbetjening skal bidrage til at målrette indsatsen for at skabe sammenhængende, effektive, sikre og brugervenlige løsninger for borgere og virksomheder og økonomiske gevinster i de offentlige myndigheder, fx gennem færre supporthenvendelser og et bedre samspil mellem forskellige myndigheders selvbetjeningsløsninger. 
 
-Referencearkitekturen skal fungere som basis for en fælles forståelse af forretningsarkitekturen, herunder de processer og begreber der er knyttet til ”digital selvbetjening”. De fælles begreber skal understøtte en bedre dialog mellem myndigheder og i forhold til leverandører i anskaffelsesprocesser. Derudover skal arkitekturen fungere som et teknisk pejlemærke for udvikling af digitale løsninger generelt i den offentlige sektor, herunder for udvikling af fælles standarder og løsninger. Den har en tæt relation til den fællesoffentlige rammearkitektur, affødt af digitaliseringsstrategiens initiativ 8.1, og til andre referencearkitekturer.
+Referencearkitekturen skal fungere som basis for en fælles forståelse af forretningsarkitekturen, herunder de processer og begreber der er knyttet til ”digital selvbetjening”. De fælles begreber skal understøtte en bedre dialog mellem myndigheder og i forhold til leverandører i anskaffelsesprocesser. Derudover skal arkitekturen fungere som et teknisk pejlemærke for udvikling af digitale løsninger generelt i den offentlige sektor, herunder for udvikling af fælles standarder og løsninger. Den har en tæt relation til andre referencearkitekturer og den fællesoffentlige digitale arkitektur, også kaldet FDA. 
 
-Denne første version af en referencearkitektur for selvbetjening er udarbejdet i et samarbejde mellem myndigheder med mange års erfaring med selvbetjeningsløsninger. Der vil være behov for løbende at udarbejde nye versioner af referencearkitekturen, i takt med at myndighederne indhenter erfaringer med at anvende referencearkitekturen, og i takt med at der udvikles fælles komponenter som led i denne og andre referencearkitekturer.
+Denne referencearkitektur for selvbetjening er udarbejdet i et samarbejde mellem myndigheder med mange års erfaring med selvbetjeningsløsninger. Der vil være behov for løbende at udarbejde nye versioner af referencearkitekturen, i takt med at myndighederne indhenter erfaringer med at anvende referencearkitekturen - og i takt med at der udvikles fælles komponenter som et led i denne og andre referencearkitekturer.
 
 Målgruppen for den fællesoffentlige referencearkitektur for selvbetjening er offentlige tjenesteudbydere og indirekte deres leverandører.
 
