@@ -2,7 +2,7 @@
 
 ## Forord
 
-Denne referencearkitektur er udarbejdet som led i realiseringen af et af initiativerne i de løbende fællesoffentlige digitaliseringsstrategier.
+Denne referencearkitektur er udarbejdet som led i realiseringen af initiativerne i de fællesoffentlige digitaliseringsstrategier.
 
 Fællesoffentlig referencearkitektur for selvbetjening skal bidrage til at målrette indsatsen for at skabe sammenhængende, effektive, sikre og brugervenlige løsninger for borgere og virksomheder og økonomiske gevinster i de offentlige myndigheder, fx gennem færre supporthenvendelser og et bedre samspil mellem forskellige myndigheders selvbetjeningsløsninger. 
 
@@ -10,7 +10,7 @@ Referencearkitekturen skal fungere som basis for en fælles forståelse af forre
 
 Denne referencearkitektur for selvbetjening er udarbejdet i et samarbejde mellem myndigheder med mange års erfaring med selvbetjeningsløsninger. Der vil være behov for løbende at udarbejde nye versioner af referencearkitekturen, i takt med at myndighederne indhenter erfaringer med at anvende referencearkitekturen - og i takt med at der udvikles fælles komponenter som et led i denne og andre referencearkitekturer.
 
-Målgruppen for den fællesoffentlige referencearkitektur for selvbetjening er offentlige tjenesteudbydere og indirekte deres leverandører.
+
 
 ## Resumé
 
@@ -132,9 +132,10 @@ Referencearkitekturen publiceres på arkitektur.digst.dk, hvor man kan finde yde
 
 Den primære målgruppe for dette dokument er arkitekter, tilknyttet offentlige digitaliseringsprojekter, herunder enterprise-arkitekter, forretningsarkitekter, løsningsarkitekter, it-arkitekter mv. 
 
-Dokumentets Del A Strategi henvender sig desuden også til projektledere og beslutningstagere, herunder forretningsansvarlige, digitaliseringschefer, it-chefer, afdelings- og kontorchefer og andre med rollen som systemejer. 
+Dokumentets Del A Strategi henvender sig desuden også til projektledere og beslutningstagere, herunder forretningsansvarlige, digitaliseringschefer, it-chefer, afdelings- og kontorchefer - og andre med rollen som systemejer. 
 
-Hertil bemærkes, at dokumentet i sin helhed også er relevant for leverandører, og det anbefales at de sætter sig grundigt ind i referencearkitekturen.
+Andre målgrupper for denne referencearkitektur er offentlige tjenesteudbydere og indirekte deres leverandører. Det anbefales at de sætter sig grundigt ind i referencearkitekturen.
+
 
 ### Anvendelse
 
