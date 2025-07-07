@@ -10,13 +10,11 @@ Referencearkitekturen skal fungere som basis for en fælles forståelse af forre
 
 Denne referencearkitektur for selvbetjening er udarbejdet i et samarbejde mellem myndigheder med mange års erfaring med selvbetjeningsløsninger. Der vil være behov for løbende at udarbejde nye versioner af referencearkitekturen, i takt med at myndighederne indhenter erfaringer med at anvende referencearkitekturen - og i takt med at der udvikles fælles komponenter som et led i denne og andre referencearkitekturer.
 
-
-
 ## Resumé
 
 Med selvbetjening menes i dette dokument digital selvbetjening med fokus på interaktiv, internetbaseret kommunikation.
 
-Offentlig digital selvbetjening har traditionelt haft fokus på indsamling af data til den enkelte myndighed. En traditionel løsning har i stort omfang videreført de funktioner, som papirblanketteten har haft. Det offentlige Danmark har i de seneste år investeret i mere brugervenlige og effektive selvbetjeningsløsninger som led i udmøntningen af lovgivning omkring obligatorisk digital selvbetjening (bølgeplanerne) og har flyttet en stor del af de analoge henvendelser til myndighederne over på de digitale løsninger. Den videre udvikling af selvbetjeningsløsninger vil kræve fokus på at skabe bedre sammenhæng for brugeren i de situationer, hvor løsningen af brugerens livssituationer kræver flere selvbetjeningsløsninger. Ligeledes kan løsningerne udvikles til bedre at understøtte de øvrige opgaver, borgeren eller virksomheden måtte have i forbindelse med den opgave, som selvbetjeningen indgår i. 
+Offentlig digital selvbetjening har traditionelt haft fokus på indsamling af data til den enkelte myndighed. En traditionel løsning har i stort omfang videreført de funktioner, som papirblanketteten har haft. Det offentlige Danmark har i de seneste år investeret i mere brugervenlige og effektive selvbetjeningsløsninger som led i udmøntningen af lovgivning omkring obligatorisk digital selvbetjening (bølgeplanerne) og har flyttet en stor del af de analoge henvendelser til myndighederne over på de digitale løsninger. Den videre udvikling af selvbetjeningsløsninger vil kræve fokus på at skabe bedre sammenhæng for brugeren i de situationer, hvor løsningen af brugerens livssituationer kræver flere selvbetjeningsløsninger. Ligeledes kan løsningerne udvikles til bedre at understøtte de øvrige opgaver, som borgeren eller virksomheden måtte have i forbindelse med den opgave, som selvbetjeningen indgår i. 
 
 Denne referencearkitektur har til formål at skabe rammerne for både en større brugertilfredshed og en større effektivitet i den samlede opgaveløsning. Her tænkes på forhold, som i højere grad understøtter borgerens eller virksomhedens samlede opgaver og behov, en højere grad af genbrug og en bedre integration til fagsystemer m.m. Det er forhold, som kan befordre bedre sammenhæng mellem flere selvbetjeningsløsninger, når brugeren står i en livssituation, hvor en række forskellige selvbetjeningsløsninger skal anvendes, for at brugerens samlede behov kan opfyldes gennem selvbetjening. Dette kan blandt andet ske ved at øge automatiseringsgraden, så en større del af processen – og på nogle få områder hele processen – kan gennemføres uden at involvere en sagsbehandler og derved eventuelt  resultere i straksafgørelser.
 
@@ -135,7 +133,6 @@ Den primære målgruppe for dette dokument er arkitekter, tilknyttet offentlige 
 Dokumentets Del A Strategi henvender sig desuden også til projektledere og beslutningstagere, herunder forretningsansvarlige, digitaliseringschefer, it-chefer, afdelings- og kontorchefer - og andre med rollen som systemejer. 
 
 Andre målgrupper for denne referencearkitektur er offentlige tjenesteudbydere og indirekte deres leverandører. Det anbefales at de sætter sig grundigt ind i referencearkitekturen.
-
 
 ### Anvendelse
 
