@@ -90,9 +90,7 @@ The core services realise the following capabilities in the reference architectu
 
 Combined, these capabilities realise a self-service process and are used by citizens or staff in companies. They may be initiated by the users themselves or automatically, e.g. by back-office systems. The capabilities draw on a number of functionalities described in this document and establish and maintain a self-service context, making it possible for a self-service process to be put on hold and resumed. In case a handover is necessary, it is described which agreements will have to be made for this to take place. The capabilities may draw on information from back-office systems, from user profiles and from joint public infrastructure such as basic data, user management systems (identity and login), etc. See figure 5. Capabilities and actors in self-service processes/self-service chains.
 
-The reference architecture shows what software components are used in the construction of self-service systems and which joint public infrastructure components the self-service systems will draw on. See figure 16. Possible components in self-services.
-
-The reference architecture lists the software technologies available in the market for the construction of self-service systems.
+The reference architecture shows what software components are used in the construction of self-service systems and which joint public infrastructure components the self-service systems will draw on. See figure 16. Possible components in self-services. The reference architecture lists the software technologies available in the market for the construction of self-service systems.
 
 The reference architecture sets requirements for the common public infrastructure components and also proposes new ones. The reference architecture points out which existing standards to use and new standards to be developed. The reference architecture touch upon the security issues which are central for the design and implementation of self-service systems.
 
