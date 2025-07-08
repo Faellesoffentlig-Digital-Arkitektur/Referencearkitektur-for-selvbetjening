@@ -28,7 +28,7 @@ Referencearkitekturen beskriver desuden rammerne for, at brugerrejser, der omfat
 
 En selvbetjeningsløsning er den eller de tekniske løsninger, der implementerer et selvbetjeningsforløb.
 
-Referencearkitekturen for selvbetjening fastlægger en række principper for at styre frem mod en fælles forretnings- og it-arkitektur for det offentliges selvbetjeningsløsninger, men tager udgangspunkt i de fællesoffenltlige princippper, her 2.4 "Byg forandringsparat med udgangspunkt i brugeren" og 5.1 "Design sammenhængende brugerrejser" :
+Referencearkitekturen for selvbetjening fastlægger en række principper for at styre frem mod en fælles forretnings- og it-arkitektur for det offentliges selvbetjeningsløsninger, men tager udgangspunkt i de fællesoffentlige princippper, her arkitekturregel 2.4 "Byg forandringsparat med udgangspunkt i brugeren" og 5.1 "Design sammenhængende brugerrejser" :
 
 Principper for selvbetjening
 
@@ -70,16 +70,16 @@ Seen from an authority or an architectural perspective, a self-service process c
 
 Furthermore, the reference architecture describes a framework for how a user journey comprised of several self-service processes can be combined into self-service chains. This chaining is achieved through a handover, and the reference architecture includes provisions to ensure that such handovers can take place between different authorities.
 
-The reference architecture for self-service establishes a set of principles for establishing a common business and IT architecture for government self-service systems.
+The reference architecture for self-service initiate a set of principles for establishing a common IT architecture for self-service systems, but is based on the Danish federal digitalization arkitecture principles, here architecture rule 2.4 "Build change-ready solutions with the user as its starting point" and 5.1 "Design coherent user journeys".
 
-Principles
+Self-service principles
 
 1. In a self-service process, the user encounters preparation, core and round-off, supported by user-focused digital systems.
 2. Self-service systems are comprehensible, easy and intuitive to use for the intended users.
-3. The user only has to provide information government does not already have.
+3. The user only has to provide information the government does not already have.
 4. The user meets a coherent and interconnected service, even when it crosses sectorial boundaries of different authorities.
 5. It is always clear for the user which authority is responsible for a given service or part of a service.
-6. Authorities involved in the chaining of several self-service processes agree on the division of tasks and responsibilities within the current rules and regulations.
+6. Authorities involved in the chaining of several self-service processes, establish agreements on the division of tasks and responsibilities, within the current rules and regulations.
 
 The core services realise the following capabilities in the reference architecture:
 
@@ -94,7 +94,7 @@ The reference architecture shows what software components are used in the constr
 
 The reference architecture lists the software technologies available in the market for the construction of self-service systems.
 
-The reference architecture makes demands on the joint public infrastructure components and suggests new ones. The reference architecture points out which existing standards to use and what new standards will have to be developed. The reference architecture touch upon the security issues which are central for the design and implementation of self-service systems.
+The reference architecture sets requirements for the common public infrastructure components and also proposes new ones. The reference architecture points out which existing standards to use and new standards to be developed. The reference architecture touch upon the security issues which are central for the design and implementation of self-service systems.
 
 ## Indledning
 
