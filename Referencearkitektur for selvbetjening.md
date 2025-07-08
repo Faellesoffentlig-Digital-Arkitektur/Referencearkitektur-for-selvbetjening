@@ -28,9 +28,9 @@ Referencearkitekturen beskriver desuden rammerne for, at brugerrejser, der omfat
 
 En selvbetjeningsløsning er den eller de tekniske løsninger, der implementerer et selvbetjeningsforløb.
 
-Referencearkitekturen for selvbetjening fastlægger en række principper for at styre frem mod en fælles forretnings- og it-arkitektur for det offentliges selvbetjeningsløsninger:
+Referencearkitekturen for selvbetjening fastlægger en række principper for at styre frem mod en fælles forretnings- og it-arkitektur for det offentliges selvbetjeningsløsninger, men tager udgangspunkt i de fællesoffenltlige princippper, her 2.4 "Byg forandringsparat med udgangspunkt i brugeren" og 5.1 "Design sammenhængende brugerrejser" :
 
-Princip
+Principper for selvbetjening
 
 1. Brugerne møder i det enkelte selvbetjeningsforløb både forberedelse, kernen og afrunding, understøttet af digitale løsninger, der imødekommer brugernes behov.
 2. Selvbetjeningsløsninger er forståelige, nemme og intuitive at anvende for brugerne
@@ -48,13 +48,13 @@ De centrale tjenester realiserer følgende kapabiliteter i referencearkitekturen
 
 Kapabiliteterne realiserer tilsammen et selvbetjeningsforløb og anvendes af borgere eller af medarbejdere i virksomheder og kan også igangsættes af en hændelse, fx i et fagsystem. Kapabiliteter trækker på en række beskrevne funktionaliteter og vedligeholder en selvbetjeningskontekst, så et selvbetjeningsforløb kan pauses og genoptages. Skal der ske en overdragelse, beskrives, hvilke aftaler, der skal etableres, for at dette kan ske. Kapabiliteterne kan trække på informationer fra fagsystemer, brugerprofiler og fra fællesoffentlig infrastruktur som grunddata, brugerstyring (identitet og login) og andet. Se Figur 5. Kapabiliteter og aktører i selvbetjeningsforløb og selvbetjeningskæder
 
-Referencearkitekturen anviser, hvilke softwarekomponenter der medgår i konstruktionen af selvbetjeningsløsninger, og hvilke fællesoffentlige infrastrukturkomponenter som selvbetjeningsløsningen vil trække på. Se Figur 16. Mulige komponenter i selvbetjeningsforløb. Referencearkitekturen opregner de softwareteknologier, der findes på markedet til opbygning og realisering af selvbetjeningsløsninger. 
+Referencearkitekturen anviser, hvilke softwarekomponenter der medgår i konstruktionen af selvbetjeningsløsninger, og hvilke fællesoffentlige infrastrukturkomponenter som selvbetjeningsløsningen vil trække på. Se Figur 16. Mulige komponenter i selvbetjeningsforløb. Referencearkitekturen lister de softwareteknologier, der findes på markedet til opbygning og realisering af selvbetjeningsløsninger. 
 
 Referencearkitekturen stiller krav til de fællesoffentlige infrastrukturkomponenter og foreslår også nye. Referencearkitekturen udpeger, hvilke eksisterende standarder som skal anvendes, og hvilke nye standarder der skal udarbejdes. Referencearkitekturen gennemgår de sikkerhedsproblemstillinger, der er centrale for udarbejdelsen af selvbetjeningsløsninger.
 
 ## Executive summary
 
-This document outlines and explains a reference architecture for digital self-services for all of the Danish public sector: municipalities, regions, state agencies and ministries. This reference architecture is part of the implementation of the Danish public sector Digital Strategy 2016-2020. The reference architecture has been produced by a group of IT-architects and other experts from a number of public authorities. This first version will be updated as experience is gathered through the coming use of the reference architecture.
+This document outlines and explains a reference architecture for digital self-services for all of the Danish public sector: municipalities, regions, state agencies and ministries. This reference architecture is part of the implementation of the initiatives in the joint public digitization strategies. The reference architecture has been produced by a group of IT-architects and other experts from a number of public authorities. This first version will be updated as experience is gathered through the coming use of the reference architecture.
 
 The purpose of the reference architecture is to target the efforts in the public sector on producing interconnected, efficient, secure and useable self-services to citizens and enterprises, as well as to generate financial benefits for public authorities, e.g. through decreased need for support calls and improved interconnectivity between self-service solutions from various and diverse authorities. The reference architecture is intended to establish a common understanding of the business and it-architecture of self-services across the public sector, and between public authorities and their suppliers. In this document “self-service” means digital self-service with a focus on interactive internet-based communication.
 
