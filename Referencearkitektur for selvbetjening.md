@@ -98,9 +98,9 @@ The reference architecture sets requirements for the common public infrastructur
 
 ### Formål
 
-Denne referencearkitektur er udarbejdet i sammenhæng med den fællesoffentlige arkitektur for digitalisering (FDA) og er en del af den fælles rammearkitektur, der skal understøtte implementeringen af den fællesoffentlige digitaliseringsstrategi 2016-2020. Målet er, at referencearkitekturen skal fungere som basis for en fælles forståelse af forretningsarkitekturen, herunder de forvaltningsmæssige processer og begreber. Det vil sige fælles begreber for digital selvbetjening, der understøtter bedre dialog mellem myndigheder, herunder myndigheder, der varetager infrastrukturkomponenter og portaler, og i forhold til leverandører i anskaffelsesprocesser. Derudover også som et teknisk pejlemærke for udvikling af digitale løsninger generelt i den offentlige sektor, herunder for udvikling af fælles standarder og løsninger.  
+Denne referencearkitektur er udarbejdet i sammenhæng med den fællesoffentlige arkitektur for digitalisering (FDA) og er en del af den fælles rammearkitektur, der skal understøtte implementeringen af de fællesoffentlige digitaliseringsstrategier. Formålet er, at referencearkitekturen skal fungere som basis for en fælles forståelse af forretningsarkitekturen, herunder de forvaltningsmæssige processer og begreber. Det vil sige fælles begreber for digital selvbetjening, der understøtter bedre dialog mellem myndigheder, herunder myndigheder, der varetager infrastrukturkomponenter i portaler - og i forhold til leverandører i anskaffelsesprocesser. Derudover også som et teknisk pejlemærke for udvikling af digitale løsninger generelt i den offentlige sektor, herunder for udvikling af fælles standarder og løsninger.  
    
-Referencearkitekturen skal understøtte udviklingen af bedre selvbetjeningsløsninger. Formålet er at kunne give brugerne en vellykket brugeroplevelse, således at de kan gennemføre selvbetjeningsforløb med et minimum af support fra de involverede myndigheder gennem andre kanaler.
+Referencearkitekturen skal understøtte udviklingen af bedre selvbetjeningsløsninger. Formålet er at kunne give brugerne en vellykket brugeroplevelse, således at de kan gennemføre selvbetjeningsforløb med et minimum behov af support fra de involverede myndigheder, herunder suppoort via andre kanaler.
 
 Denne referencearkitektur vil derfor løfte brugeroplevelsen i selvbetjening generelt ved at:
 
@@ -110,7 +110,7 @@ Denne referencearkitektur vil derfor løfte brugeroplevelsen i selvbetjening gen
 
 Referencearkitekturen skal desuden give mulighed for at styrke den tværgående sammenhæng i de offentlige selvbetjeninger ved hjælp af overdragelse:
 
-* I selvbetjeningsforløbet deles status og procesdata, som bruges til at skabe sammenhæng på tværs. 
+* I selvbetjeningsforløbet overføres status og procesdata, som bruges til at skabe sammenhæng på tværs. 
 * Der skabes ramme og instrumenter til at kæde selvbetjeningsforløb sammen på tværs af ministerområder og ressortområder.
 
 Med henblik på at understøtte dette vil denne referencearkitektur derfor:
@@ -118,7 +118,7 @@ Med henblik på at understøtte dette vil denne referencearkitektur derfor:
 * Præsentere en fælles forståelse af selvbetjening, herunder beskrivelse, definition, sprog og scope for selvbetjening.
 * Give retningspile til de mange forskellige teknologier, som kan realisere selvbetjening som sammenhængende brugerrejser både som enkelte selvbetjeningsforløb og som selvbetjeningskæder.
 
-Referencearkitekturen bygger på mange års erfaringer med selvbetjeningsløsninger til browsere på pc’er, tablets og smartphones og til apps. Udviklingen i teknologier og brugerforventninger betyder, at referencearkitekturen er et bedste bud på en sammenhængende arkitektur for området, og det forventes, at den løbende udvikles. Der må påregnes justeringer af referencearkitekturen efter de forretningsmæssige beslutninger, der kommer ud af færdiggørelsen af Fælles Krav, Manual for virk.dk og borger.dk samt initiativ 1.1 og 1.3.
+Referencearkitekturen bygger på mange års erfaringer med selvbetjeningsløsninger til browsere på pc’er, tablets og smartphones og til apps. Udviklingen i teknologier og brugerforventninger betyder, at referencearkitekturen er et bedste bud på en sammenhængende arkitektur for området og det forventes, at den løbende udvikles. Der må påregnes justeringer af referencearkitekturen efter de forretningsmæssige erfaringer, der kommer fra portaler som virk.dk og borger.dk, samt fra initiativerne i de fællesoffentlige digitaliseringsstrategier.
 
 ### Publicering og relaterede dokumenter
 
