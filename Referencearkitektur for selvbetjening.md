@@ -162,13 +162,9 @@ På hjemmesiden arkitektur.digst.dk kan man læse nærmere om rammerne for gover
 
 ### Kontekst for tilblivelse og styring
 
-Referencearkitekturen er udviklet som led i initiativ 1.2 under den fællesoffentlige digitaliseringsstrategi 2016-2020 og er forankret i Styregruppen for digital kommunikation, som er et fællesoffentligt samarbejde mellem staten, regionerne, kommunerne og ATP.
+Referencearkitekturen er udarbejdet i dialog med en arbejdsgruppe bestående af deltagere fra Digitaliseringsstyrelsen, Erhvervsstyrelsen, SKAT, KL, Landbrugs- og Fiskeristyrelsen (senere Landbrugsstyrelsen), Miljøstyrelsen og ATP og gennem møder med arbejdsgruppen for rammearkitektur og referencearkitekturer og i samarbejde med arbejdsgruppen for selvbetjening. 
 
-Arkitekturen er udarbejdet i dialog med en arbejdsgruppe bestående af deltagere fra Digitaliseringsstyrelsen, Erhvervsstyrelsen, SKAT, KL, Landbrugs- og Fiskeristyrelsen (senere Landbrugsstyrelsen), Miljøstyrelsen og ATP og gennem møder med arbejdsgruppen for rammearkitektur og referencearkitekturer. 
-
-Referencearkitekturen er udviklet i samarbejde med arbejdsgruppen for referencearkitektur for selvbetjening. 
-
-Referencearkitekturens optages i den fællesoffentlige rammearkitektur ved godkendelse i Styregruppen for data og arkitektur. Forud for dette underlægges dokumentet mindst ét peer review af et review board, nedsat af Styregruppen for data og arkitektur, og en åben ekstern kommentering med inddragelse af relevante interessenter, herunder en bred kreds af myndigheder og leverandører.
+Referencearkitekturens er optaget i den fællesoffentlige rammearkitektur ved godkendelse på et møde UAS. Forud for dette har dokumentet gennemgået mindst ét review af et review board, nedsat af UAS og har deltaget i en åben ekstern kommentering, med inddragelse af relevante interessenter, herunder en bred kreds af myndigheder og leverandører.
 
 ### Definitioner og begreber
 
