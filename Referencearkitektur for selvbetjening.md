@@ -156,11 +156,9 @@ Bilag A Tjekliste indeholder en oversigt over en række af de mest centrale dele
 
 Referencearkitekturen er som del af den fællesoffentlige rammearkitektur styrende for arkitekturarbejdet i projekter i den fællesoffentlige digitaliseringsstrategi. Dette omfatter dels løsningsprojekter vedrørende fællesoffentlige komponenter og services i form af infrastrukturløsninger som fx borger.dk og virk.dk, Digital Post, MitID og NemLog-in, dels projekter, der indebærer, at myndigheders løsninger skal kunne arbejde sammen og dele data. Desuden er referencearkitekturen styrende for det fællesoffentlige arbejde med at udvikle fælles standarder i regi af strategien.
 
-I forbindelse med projekter, som indgår i den fællesoffentlige digitaliseringsstrategi, er der aftalt en governance-ramme. Denne omfatter en række fora, herunder Styregruppen for data og arkitektur (SDA), der har ansvar for referencearkitekturer og standarder, som optages i den fællesoffentlige digitale arkitektur (FDA). SDA håndhæver governance gennem review af projekter, som foretages af et fællesoffentligt review-panel.
+I forbindelse med projekter, som indgår i den fællesoffentlige digitaliseringsstrategi, er der aftalt en governance-ramme. Denne omfatter en række fora, herunder Udvalget for Arkitektur og Standarder (UAS), der har ansvar for de referencearkitekturer og standarder, som optages i den fællesoffentlige digitale arkitektur (FDA). UAS håndhæver governance gennem review af projekter, som foretages af et fællesoffentligt reviewboard.
 
-På hjemmesiden arkitektur.digst.dk kan man læse nærmere om rammerne for governance vedrørende den fællesoffentlige rammearkitektur, herunder konkrete aftaler og beslutninger vedrørende anvendelse og realisering af nærværende referencearkitektur.
-
-Derudover kan referencearkitekturen frit anvendes som vejledende teknisk pejlemærke.
+På hjemmesiden arkitektur.digst.dk kan man læse nærmere om rammerne for governance vedrørende den fællesoffentlige rammearkitektur, herunder konkrete aftaler og beslutninger vedrørende anvendelse og realisering af nærværende referencearkitektur. Derudover kan referencearkitekturen frit anvendes som vejledende teknisk pejlemærke.
 
 ### Kontekst for tilblivelse og styring
 
