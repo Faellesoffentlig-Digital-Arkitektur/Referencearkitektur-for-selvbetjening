@@ -266,7 +266,7 @@ Digitaliseringsstyrelsen udarbejder løbende vejledninger til gode selvbetjening
 
 Der er ikke etableret yderligere styringsmæssige rammer for selvbetjeningsløsninger, der indgår i selvbetjeningskæder på tværs af myndigheder. Det må aftales mellem de involverede myndigheder i hvert enkelt tilfælde gennem en overdragelsesaftale, som sikrer, at alle forhold er afklaret mellem myndighederne med hensyn til overdragelse af data, kvaliteten af disse data og transporten af dem. Dette redegøres der nærmere for i [afsnittet om forretningskapabiliteter](/node/1100#forretningskapabiliteter).
 
-### Vision, mål og strategi
+### Vision, scope og mål
 
 #### Forretningsmæssige behov (drivere)
 
@@ -278,12 +278,12 @@ Referencearkitekturen skal være en hjælp til og udgøre en ramme for de enkelt
 
 #### Vision
 
-Afsættet for denne referencearkitektur er den fællesoffentlige digitaliseringsstrategi 2016-2020, som udstikker kursen for den fællesoffentlige digitalisering og samspillet med erhvervslivet. Referencearkitektur for selvbetjening skal bidrage til at nå digitaliseringsstrategiens mål om, at det digitale skal være let, hurtigt og sikre god kvalitet.
+Afsættet for denne referencearkitektur er den fællesoffentlige digitaliseringsstrategi 2016-2020, som satte kursen for den fællesoffentlige digitalisering og samspillet med erhvervslivet. Referencearkitektur for selvbetjening skal bidrage til at nå digitaliseringsstrategiens mål om, at det digitale skal være let, hurtigt og sikre god kvalitet.
 
 **Vision**  
 Borgere og virksomheder oplever – når de skal løse opgaver digitalt i selvbetjeningsløsninger – at de kan gøre det let, hurtigt og overskueligt, også når deres brugerrejse inkluderer flere selvbetjeningsløsninger. De offentlige selvbetjeningsløsninger er indrettet med udgangspunkt i brugernes behov og skaber således sammenhæng, tryghed og sikkerhed for borgere og virksomheder, også når de går på tværs af myndigheds- og sektorgrænser.
 
-En gennemførelse af referencearkitekturens anbefalinger vil medføre, at borgere og virksomheder i højere grad end i dag kan betjene sig selv digitalt i forhold til det offentlige på både en tryg og effektiv måde. Myndighederne vil modtage data, der er mere korrekte og komplette, der vil være behov for færre tilbageløb i processerne og mulighed for en højere grad af automatisering. Brugerne skal have mulighed for at vælge og skifte kanal efter behov. Resultatet vil være større brugertilfredshed, mere effektive processer og en højere kvalitet i data og i sagsbehandlingen.
+En gennemførelse af referencearkitekturens anbefalinger vil medføre, at borgere og virksomheder i højere grad end i dag kan betjene sig selv digitalt i forhold til det offentlige på både en tryg og effektiv måde. Myndighederne vil modtage data, der er mere korrekte og komplette, der vil færre tilbageløb i processerne og mulighed for en højere grad af automatisering. Brugerne skal have mulighed for at vælge og skifte kanal efter behov. Resultatet vil være større brugertilfredshed, mere effektive processer og en højere kvalitet i data og i sagsbehandlingen.
 
 ##### Scope for arkitekturen
 
@@ -295,8 +295,8 @@ Inden for scope er:
 Uden for scope er:
 
 * Den del af myndighedens sagsbehandling, der ikke direkte involverer borgerne eller virksomhederne.
-* Brugerrejser, hvori der indgår fysiske møder, behandlinger eller vurderinger. Disse betegnes som tværgående procesforløb. I sådanne forløb kan nogle trin bestå af selvbetjeningsforløb, der løses i rammerne af denne referencearkitektur. 
-* Fuldt maskinel indberetning mv. er ikke omfattet af denne referencearkitektur, fx indberetning til SKAT af løn eller overførsel af data fra blodtryksmålere eller fra en bil til offentlige løsninger. Såfremt sådanne indberetninger kræver bekræftelse, visning af status eller anden opfølgning, vil det være omfattet.
+* Brugerrejser, hvori der indgår fysiske møder, behandlinger eller vurderinger. Disse betegnes som tværgående procesforløb. I sådanne forløb kan dog nogle trin bestå af selvbetjeningsforløb, der løses indenfor rammerne af denne referencearkitektur. 
+* Fuldt maskinel indberetning mv. er ikke omfattet af denne referencearkitektur, fx indberetning til SKAT af løn eller overførsel af data fra blodtryksmålere eller fra en bil til offentlige løsninger. Såfremt sådanne indberetninger kræver bekræftelse, visning af status eller anden opfølgning, vil det være omfattet af denne referencearkitektur.
 
 #### 
 
