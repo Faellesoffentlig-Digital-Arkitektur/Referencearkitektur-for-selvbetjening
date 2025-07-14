@@ -300,13 +300,13 @@ Uden for scope er:
 
 #### 
 
-As-is situation
+As-is situationen
 
 Med indførelse af obligatorisk selvbetjening på en række områder er en stor del af borgernes og virksomhedernes indrapportering af data til ansøgninger, løbende sager,  m.m. blevet digitale. Det har bidraget til at sikre Danmarks førerposition, når det drejer sig om digital kommunikation mellem borgere og virksomheder og myndighederne.
 
 Der er i de fællesoffentlige digitaliseringsstrategier øget fokus på at understøtte den brugerrejse, som en bruger skal igennem ved benyttelse af offentlig selvbetjening. Det kræver vejledning til brugerne, før de går i gang med at indberette data, eller vejledning om det videre forløb og eventuelle nye muligheder, som brugerne kan have brug for efterfølgende. Ved brugerrejser, der indebærer anvendelse af flere selvbetjeningsforløb og som evt. krydser myndigheds- eller ressortområder, skal det i mindre omfang være overladt til brugeren selv at skabe den nødvendige helhed, sammenhæng og overblik. De videre forløb og eventuelle nye muligheder skal knyttes bedre sammen af myndighederne, både forretningsmæssigt og teknologisk. 
 
-Brugeren er også i nogle tilfælde nødt til at indtaste data, vedkommende allerede har afleveret én gang til det offentlige, pga. manglende adgang til genbrug af data, og løsningerne udnytter ikke altid fuldt ud de muligheder, der er, for at validere de data, der afleveres og dermed sikre, at de er så komplette og fejlfrie som mulig.
+Brugeren er også i nogle tilfælde nødt til at indtaste data, vedkommende allerede har afleveret én gang til det offentlige. Det sker pga. manglende genbrug af data og løsningerne udnytter ikke altid fuldt ud de muligheder, der er, for at validere de data, der afleveres - og dermed sikre, at de er så komplette og fejlfrie som mulig.
 
 Der arbejdes mange steder i det offentlige på at løse disse udfordringer. Flere steder er der interaktive selvbetjeningsforløb, der afleverer data dybt ind i fagsystemer. Der findes også nogle få selvbetjeningsforløb, der er koblet sammen med andre selvbetjeningsforløb. Hertil kommer, at portalerne bidrager til at skabe sammenhæng for brugerne.
 
@@ -319,20 +319,19 @@ De forretningsstrategiske mål med referencearkitekturen er:
 1\. Øget brugervenlighed og øget selvhjulpenhed  
 Det skal være lettere for borgere og virksomheder at betjene sig selv, også på tværs af myndigheds- og sektorgrænser og på deres foretrukne platforme, og de skal i højere grad opleve at kunne klare opgaven trygt og kompetent uden behov for supplerende kontakt til myndighederne.
 
-2\. Større afklaring hos myndigheder og leverandører  
+2\. Nemmere afklaring hos myndigheder og leverandører  
 Myndigheder og leverandører skal have et fælles sprog i forhold til selvbetjening, det skal være enklere for myndighederne at beskrive kravene til selvbetjeningsløsninger, hurtigere at udvikle nye løsninger og at implementere løsninger på nye kanaler.
 
 3\. Bedre brug af data  
-Det skal være mere transparent for brugerne, hvad data bruges til og af hvem, og løsningerne skal i højere grad genbruge data, myndighederne allerede er i besiddelse af. I de situationer, hvor behandling af data kræver samtykke, skal det være mere transparent, hvad brugerne giver samtykkesamtykke til.
+Det skal være mere transparent for brugerne, hvad data bruges til og af hvem, og løsningerne skal i højere grad genbruge data, myndighederne allerede er i besiddelse af. I de situationer, hvor behandling af data kræver samtykke, skal det være mere transparent, hvad brugerne giver samtykke til.
 
 4\. Mere effektive processer  
 Løsningerne skal medvirke til en højere kvalitet af de data, der indberettes, og dermed sikre færre tilbageløb, større muligheder for (hel eller delvis) automatisering og mere effektive processer.
 
-De målbare gevinster, disse strategiske mål skal tilvejebringe, er oplistet i [afsnittet om værdiskabelse](/node/1100#vrdiskabelse).
 
 #### Værdiskabelse
 
-Realiseringen af referencearkitekturen vil skabe værdiværdi på følgende områder:
+De målbare gevinster, disse strategiske mål skal tilvejebringe, er oplistet her. Realiseringen af referencearkitekturen vil skabe værdiværdi på følgende områder:
 
 ##### 1\. Flere vellykkede brugerrejser
 
