@@ -142,7 +142,7 @@ I forhold til løsningsprojekter anvendes referencearkitekturen i forbindelse me
 
 Referencearkitekturen definerer, hvad en sammenhængende løsning omhandler i rammerne af dens emne, og den beskriver de udfordringer, der skal håndteres for at skabe sammenhængende løsninger. 
 
-Referencearkitekturen kan anvendes i sammenhæng med andre fællesoffentlige referencearkitekturer, der behandler tilgrænsende udfordringer.
+Referencearkitekturen kan anvendes i sammenhæng med andre fællesoffentlige referencearkitekturer, der behandler relaterede udfordringer.
 
 Generelt kan en referencearkitekturs rolle illustreres ved følgende figur:
 
@@ -186,7 +186,7 @@ Fremtidige revisioner af denne referencearkitektur vil blive tilpasset revisione
 
 ### Sammenhæng til den fællesoffentlige rammearkitektur
 
-Denne referencearkitektur er del af den samlede fællesoffentlige digitale arkitektur, FDA-rammearkitektur. FDA-rammearkitektur udfoldes i en række referencearkitekturer, som hver dækker et emnefelt og gensidigt supplerer hinanden. I første omgang omfatter det emnerne brugerstyring, deling af data og dokumenter samt overblik over sager og ydelser (i relation til digital selvbetjening).
+Denne referencearkitektur er del af den samlede fællesoffentlige digitale arkitektur, FDA-rammearkitektur. FDA-rammearkitektur udfoldes i en række referencearkitekturer, som hver dækker et emnefelt og gensidigt supplerer hinanden. I første omgang omfatter det emnerne brugerstyring, deling af data og dokumenter samt tværgående digitalt overblik for borgere og virksomheder (i relation til digital selvbetjening).
 
 For en introduktion til og overblik over den samlede rammearkitektur samt relateret information henvises til arkitektur.digst.dk/rammearkitektur.
 
@@ -197,7 +197,7 @@ Referencearkitektur for selvbetjening bygger bl.a. på komponenter og andet, der
 * Del A Strategi bør læses af alle. Omfatter en introduktion til emnet, de overordnede styringsrammer, forretningsmæssige behov, vision, forretningsmæssigt målbillede og værdiskabelse. Giver et kort overblik over as-is situationen, gap og forudsætninger samt overvejelser om migration frem mod målbilledet. Desuden beskriver denne del de juridiske og sikkerhedsmæssige bindinger samt de overordnede principper, som sætter rammer for digitale selvbetjeningsløsninger.
 * Del B henvender sig særligt til forretningsarkitekter. Her beskrives de grundlæggende begreber og det organisatoriske perspektiv med fokus på de forretningsmæssige kapabiliteter og processer.
 * Del C henvender sig særligt til løsningsarkitekter. I denne del beskrives de væsentligste tekniske applikations- og infrastrukturkomponenter, herunder services og integrationer samt områder for fælles tekniske standarder. Endvidere beskrives overordnet, hvordan komponenterne kan realiseres.
-* Bilagene omfatter en tjekliste, som kan anvendes af projekter til at få overblik over de vigtigste spørgsmål, som man skal forholde sig til i relation denne referencearkitektur. Desuden er der en samlet ordliste med anvendte begreber og termer samt en kildefortegnelse. 
+* Bilagene omfatter en tjekliste, som kan anvendes af projekter til at få overblik over de vigtigste spørgsmål, som man skal forholde sig til i relation denne referencearkitektur. Desuden er der i Bilag B en samlet ordliste med anvendte begreber og termer samt en kildefortegnelse. 
 
 ## Del A Strategi
 
