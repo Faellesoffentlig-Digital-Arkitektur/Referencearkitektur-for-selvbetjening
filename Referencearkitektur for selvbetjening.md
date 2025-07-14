@@ -225,7 +225,7 @@ Figur 2. Selvbetjeningsforløb
 
 En selvbetjeningsløsning er følgelig den tekniske løsning, der implementerer et selvbetjeningsforløb og eventuel overdragelse til et efterfølgende selvbetjeningsforløb.
 
-En bruger er en person, der enten optræder som borger eller optræder i en rolle som repræsentant for en virksomhed. 
+En bruger er her en person, der enten optræder som borger eller optræder i en rolle som repræsentant for en virksomhed. 
 
 Et simpelt eksempel kunne være en borger, der gerne vil have hjælp til gratis befordring til behandling på sygehuset, som kunne forløbe som følger:
 
@@ -260,7 +260,7 @@ Gennem tilrettelæggelse af selvbetjeningsforløbet ud fra brugerens oplevelse s
 
 Digitale selvbetjeningsløsninger er styringsmæssigt forankret hos den myndighed, der har ansvaret for at levere den pågældende myndighedsopgave/service til borger og virksomhed. Af hensyn til borgeres og virksomheders brugeroplevelse og sammenhæng i det offentliges selvbetjeningsløsninger er der etableret en række fællesoffentlige løsninger, standarder og vejledninger, der styres af de samarbejds- og styringsorganer, der er etableret senest i forbindelse med den fællesoffentlige digitaliseringsstrategi 2016-2020. Denne referencearkitektur er en del af dette fællesoffentlige samarbejde.
 
-Løsningsmæssigt kan selvbetjeningsløsninger tilgås fra myndighedens hjemmesider og fra de tre fællesoffentlige portaler: borger.dk, virk.dk og sundhed.dk. Herfra skal der via de fællesoffentlige aftaler også skal være adgang til myndighedernes selvbetjeningsløsninger . Det er ligeledes aftalt, at offentlige hjemmesider og selvbetjeningsløsninger med behov for sikkert login og rettighedsstyring anvender de fællesoffentlige løsninger til brugerstyring.
+Løsningsmæssigt kan selvbetjeningsløsninger tilgås fra myndighedens hjemmesider og fra de tre fællesoffentlige portaler: borger.dk, virk.dk og sundhed.dk. Herfra skal der, via de fællesoffentlige aftaler, også være adgang til myndighedernes selvbetjeningsløsninger. Det er ligeledes aftalt, at offentlige hjemmesider og selvbetjeningsløsninger med behov for sikkert login og rettighedsstyring anvender de fællesoffentlige løsninger til brugerstyring.
 
 Digitaliseringsstyrelsen udarbejder løbende vejledninger til gode selvbetjeningsløsninger. Disse findes på Digitaliseringsstyrelsens hjemmeside.
 
