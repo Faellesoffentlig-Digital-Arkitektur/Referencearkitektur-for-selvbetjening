@@ -300,11 +300,11 @@ Uden for scope er:
 
 #### 
 
-As-is situation (2017)
+As-is situation
 
-Med indførelse af obligatorisk selvbetjening på en række områder er en stor del af borgernes og virksomhedernes indrapportering af data til ansøgninger, indberetninger m.m. blevet digitale. Det har bidraget til at sikre Danmarks førerposition, når det drejer sig om digital kommunikation mellem borgere og virksomheder og myndighederne.
+Med indførelse af obligatorisk selvbetjening på en række områder er en stor del af borgernes og virksomhedernes indrapportering af data til ansøgninger, løbende sager,  m.m. blevet digitale. Det har bidraget til at sikre Danmarks førerposition, når det drejer sig om digital kommunikation mellem borgere og virksomheder og myndighederne.
 
-Der er i den fællesoffentlige digitaliseringsstrategi øget fokus på at understøtte den brugerrejse, som en bruger skal igennem ved benyttelse af offentlig selvbetjening. Det kræver vejledning af brugerne, før de går i gang med at indberette data, eller vejledning om det videre forløb og eventuelle nye muligheder, som brugerne kan have brug for efterfølgende. Ved brugerrejser, der indebærer anvendelse af flere selvbetjeningsforløb, og som evt. krydser myndigheds- eller ressortgrænser, skal det i mindre omfang være overladt til brugeren selv at skabe den nødvendige helhed, sammenhæng og overblik, ved at forløbene knyttes bedre sammen af myndighederne både forretningsmæssigt og teknologisk. Rigsrevisionen har peget på nogle af de problemer, som nu ønskes løst .
+Der er i de fællesoffentlige digitaliseringsstrategier øget fokus på at understøtte den brugerrejse, som en bruger skal igennem ved benyttelse af offentlig selvbetjening. Det kræver vejledning til brugerne, før de går i gang med at indberette data, eller vejledning om det videre forløb og eventuelle nye muligheder, som brugerne kan have brug for efterfølgende. Ved brugerrejser, der indebærer anvendelse af flere selvbetjeningsforløb og som evt. krydser myndigheds- eller ressortområder, skal det i mindre omfang være overladt til brugeren selv at skabe den nødvendige helhed, sammenhæng og overblik. De videre forløb og eventuelle nye muligheder skal knyttes bedre sammen af myndighederne, både forretningsmæssigt og teknologisk. 
 
 Brugeren er også i nogle tilfælde nødt til at indtaste data, vedkommende allerede har afleveret én gang til det offentlige, pga. manglende adgang til genbrug af data, og løsningerne udnytter ikke altid fuldt ud de muligheder, der er, for at validere de data, der afleveres og dermed sikre, at de er så komplette og fejlfrie som mulig.
 
