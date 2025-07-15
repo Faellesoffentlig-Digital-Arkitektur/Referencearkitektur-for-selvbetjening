@@ -345,11 +345,11 @@ Den samlede brugertilfredshed med selvbetjeningsløsningerne kan måles med de r
 
 Når brugerne i højere grad bliver hjulpet i vejen ind og ud ad løsningen, i forståelsen af den efterfølgende proces og i datavalideringen af de oplysninger, de afleverer, antages det, at behovet for kontakt på andre kanaler undervejs i forløbet reduceres. Det gælder i forhold til kontakter, initieret af brugeren (hvis vedkommende har behov for hjælp eller tryghed i processen), det gælder kontakter, initieret af myndigheden (hvis der er fejl eller mangler i de indsendte data/dokumentation), og det gælder til dels også afslag (hvis brugeren slet ikke er berettiget til det ansøgte eller evt. skulle have foretaget sig noget andet først).
 
-Dette kan måles ved at tælle, hvor mange henvendelser myndigheden får og selv tager initiativ til, som skyldes sådanne problemer eller mangler set fra brugerens synspunkt.
+Dette kan måles ved at tælle, hvor mange henvendelser myndigheden selv tager initiativ til og hvormange som skyldes mangler set fra brugerens synspunkt.
 
 ##### 3\. Løsninger, der er hurtigere at udvikle og vedligeholde
 
-Når myndighederne kan tage udgangspunkt i en veldefineret arkitektur og i fællesoffentlige komponenter og vejledninger, som udvikles som en udmøntning af referencearkitekturen, antages det, at arbejdet med at kravspecificere nye løsninger bliver enklere, og at kommunikationen med leverandører bliver forbedret. Dette kan på længere sigt lede til, at det bliver lettere og hurtigere for leverandørerne at udvikle og vedligeholde løsningerne, og kunne føre til, at en del løsninger bliver billigere at anskaffe. I en periode, indtil fællesoffentlige komponenter og vejledninger er udarbejdet og bliver udbredt i anvendelse, kan efterlevelse af referencearkitekturen komplicere og fordyre nogle løsninger. 
+Når myndighederne kan tage udgangspunkt i en veldefineret arkitektur og i fællesoffentlige komponenter og vejledninger, som udvikles som en udmøntning af referencearkitekturen, antages det, at arbejdet med at kravspecificere nye løsninger bliver enklere, og at kommunikationen med leverandører bliver forbedret. Dette kan på længere sigt lede til, at det bliver lettere og hurtigere for leverandørerne at udvikle og vedligeholde løsningerne, og kunne føre til, at en del løsninger bliver billigere at anskaffe. 
 
 Dette kan måles gennem en kvalitativ evaluering med inddragelse af leverandører og myndigheder.
 
@@ -357,13 +357,13 @@ Dette kan måles gennem en kvalitativ evaluering med inddragelse af leverandøre
 
 Større genbrug af data, bedre understøttelse af brugeren i at finde data og bedre datavalidering vil betyde, at de data, der indrapporteres via løsningerne, i højere grad er fyldestgørende og korrekte. Det vil betyde færre tilbageløb i processen og bidrage til en hurtigere og mere effektiv sagsbehandling.
 
-Dette kan måles ved færre tilbageløb på grund af fejl i data i udvalgte sagsbehandlingsprocesser.
+Dette kan måles ved tælle antal tilbageløb på grund af fejl i data i udvalgte sagsbehandlingsprocesser.
 
 ##### 5\. Øget automatiseringsgrad i processerne
 
 En højere kvalitet i data og mere komplette data kan gøre det muligt i højere grad at automatisere hele eller dele af sagsbehandlingen. Dette vil mere effektivt understøtte såvel selvbetjeningsforløb som de dele af sagsbehandlingen, der kræver faglige vurderinger og skøn. Dette bidrager igen til kortere sagsbehandlingstider, hurtigere afgørelser og lavere omkostninger for myndighederne.
 
-Dette kan måles ved en gennemgang af udvalgte løsningers automatiseringsgrad.
+Dette kan måles ved at analysere udvalgte løsningers automatiseringsgrad.
 
 #### Gap og forudsætninger
 
