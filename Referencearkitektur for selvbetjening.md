@@ -474,7 +474,7 @@ Selvbetjeningsløsninger på internettet er udsatte for en række risici, og de 
 
 #### Overblik over principper
 
-Referencearkitekturen for selvbetjening fastlægger følgende principper for at styre frem mod en fælles forretnings- og it-arkitektur for det offentliges selvbetjeningsløsninger. Som overordnet ramme for disse principper ligger de ti tværoffentlige overordnede principper for forretnings- og it-arkitektur  samt de otte principper i Hvidbogen for arkitektur for digitalisering , som ikke gengives her.
+Referencearkitekturen for selvbetjening fastlægger følgende principper for at styre frem mod en fælles forretnings- og it-arkitektur for det offentliges selvbetjeningsløsninger. Som overordnet ramme for disse principper for selvbetjening, anvendes de otte principper i Hvidbogen for arkitektur for digitalisering (dog ikke gengivet her).
 
 Princip:
 
@@ -532,7 +532,7 @@ Implikationer
 
 * Brugere skal i den enkelte selvbetjeningsløsning (som udgangspunkt) kun inddatere information, som det offentlige ikke har i forvejen.
 * Det indebærer, at det offentlige skal opbygge løsninger til sikkert og effektivt at lagre og dele inddateret information og anvende aftalte integrationsmønstre (hvilket kræver en langsigtet indsats). Den enkelte selvbetjeningsløsning skal efterleve princippet i det omfang, det er muligt at hente og aflevere data til fællesoffentligt brug . 
-* Brugere skal have sikkerhed for, at den præsenterede information er korrekt, og der skal være klare regler for, hvad brugeren skal gøre, hvis informationen ikke vurderes at være korrekt. Selvbetjeningsløsningen skal da kunne håndtere at agere korrekt på en sådan påstand og have afklaret, om brugeren henvises til informationskilden, eller om informationen skal rettes i selvbetjeningsløsningen.
+* Brugere skal have sikkerhed for, at den præsenterede information er korrekt, og der skal være klare regler for, hvad brugeren skal gøre, hvis informationen vurderes ikke at være korrekt. Selvbetjeningsløsningen skal da kunne håndtere at agere korrekt på en sådan påstand og have afklaret, om brugeren henvises til informationskilden, eller om informationen skal rettes i selvbetjeningsløsningen.
 * Myndigheder og udviklere skal i tilrettelæggelsen af løsningen kortlægge, hvorfra de nødvendige informationer til selvbetjeningsforløbet og den tilhørende sagsbehandling kan indhentes og dernæst indhente den derfra. Denne kortlægning omfatter både juridiske , tekniske og andre relevante forhold. Den skal også omfatte eventuelle ændringer i indhentet information, hvis selvbetjeningsforløbet gennemføres over længere tid, fx ved afbrydelse og genoptagelse.
 * Hvis der kræves samtykke til at indhente oplysninger, skal dette indhentes som del af selvbetjeningsløsningen.
 
