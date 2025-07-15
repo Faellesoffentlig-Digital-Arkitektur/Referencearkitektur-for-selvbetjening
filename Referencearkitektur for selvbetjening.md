@@ -402,7 +402,7 @@ At der kan opnås kritisk masse. Det vil sige, at arkitekturen anvendes som basi
 
 En migration mod en implementering af det beskrevne målbillede kræver en indsats fra mange forskellige interessenter og omfatter derfor både implementering hos myndigheder som serviceudbydere.
 
-Der udarbejdes derfor med en strategi for realisering, herunder et teknisk roadmap for fællesoffentlige standarder og komponenter samt styring og finansiering. Implementering af referencearkitekturen for selvbetjening sker i sammenhæng med andre tiltag under den fællesoffentlige digitaliseringsstrategi 2016-2020 og under den styringsstruktur, som er nedsat til at realisere denne digitaliseringsstrategis indsatser.
+Der udarbejdes derfor med en strategi for realisering, herunder et teknisk roadmap for fællesoffentlige standarder og komponenter samt styring og finansiering. Implementering af referencearkitekturen for selvbetjening sker i sammenhæng med andre tiltag under de fællesoffentlige digitaliseringsstrategier og under den styringsstruktur, som er nedsat til at realisere  indsatserne.
 
 ### Bindinger
 
