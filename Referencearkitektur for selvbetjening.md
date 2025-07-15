@@ -410,13 +410,13 @@ I dette afsnit beskrives juridiske og sikkerhedsmæssige bindinger overordnet i 
 
 #### Jura
 
-Borgeres og virksomheders brug af selvbetjeningsløsninger er omfattet af forvaltningsloven, persondataloven og lov om obligatorisk selvbetjening og vil blive omfattet af EU’s databeskyttelsesforordning (persondataforordning) fra maj 2018 og af EU's webtilgængelighedsdirektiv. For selvbetjeningsløsninger, der kan anvendes af borgere fra EU/EØS-lande, vil eIDAS-forordningen også have betydning.
+Borgeres og virksomheders brug af selvbetjeningsløsninger er omfattet af forvaltningsloven, persondataloven og lov om obligatorisk selvbetjening, EU’s databeskyttelsesforordning (persondataforordning) og af EU's webtilgængelighedsdirektiv. For selvbetjeningsløsninger, der kan anvendes af borgere fra EU/EØS-lande, vil eIDAS-forordningen også have betydning.
 
 Mange selvbetjeningsløsninger er omfattet af lovgivningen om obligatorisk digital selvbetjening. Folketinget har vedtaget i alt fire samlelove  om obligatorisk digital selvbetjening, som danner grundlaget for obligatorisk digital selvbetjening for borgere og virksomheder på en række områder, og som udmøntes i ændringer i den konkret faglovgivning.
 
 Desuden er selvbetjeningsløsninger omfattet af de pågældende myndigheders ressortlovgivning. Det betyder, at hver enkelt selvbetjeningsløsning skal være forankret hos en myndighed. Det betyder ligeledes, at myndigheder, der samarbejder om at kæde selvbetjeningsløsninger sammen, skal gøre det inden for rammerne af disse regler.
 
-Inden for selvbetjening skal der være særligt fokus på beskyttelse af persondata og privatlivets fred, på korrekt implementering af love og betænkninger, som selvbetjeningen vedrører, på at vejledningspligten er opfyldt og på beskyttelse mod fjendtlig indtrængen via internet. 
+Inden for selvbetjening skal der være særligt fokus på beskyttelse af persondata og privatlivets fred, på korrekt implementering af love og betænkninger som selvbetjeningen vedrører, at vejledningspligten er opfyldt og på beskyttelse mod fjendtlig indtrængen via internet. 
 
 Lovgivning og forordning stiller krav til sikkerhed i myndighedernes it-løsninger, hvilket kort opridses herunder.
 
@@ -432,7 +432,7 @@ For selvbetjeningsløsninger er det udgangspunktet, at myndighederne ud fra en r
 
 I forhold til den enkelte selvbetjeningsløsning skal den ansvarlige myndighed vurdere sikkerheden ud fra en række vinkler, som omfatter jura, organisering, informationer og teknik. Der skal specielt være fokus på, at en overdragelse medfører, at forhold omkring en databehandleraftale skal afklares og aftales.
 
-Selvbetjeningsløsninger indgår i samspil med brugernes udstyr, med andre tjenester og med infrastruktur, dvs. forhold der ikke er under den enkelte myndigheds kontrol. Det gælder også i de tilfælde, hvor en brugerrejse omfatter flere selvbetjeningsløsninger, som derfor skal fungere sammen i et eller andet omfang (sammenkædning til selvbetjeningskæder).
+Selvbetjeningsløsninger indgår i samspil med brugernes udstyr, med andre tjenester og med infrastruktur, dvs. forhold der ikke er under den enkelte myndigheds kontrol. Det gælder også i de tilfælde, hvor en brugerrejse omfatter flere selvbetjeningsløsninger, som derfor skal fungere sammen, i et eller andet omfang (sammenkædning til selvbetjeningskæder).
 
 Konsekvenserne af dette og af et mere tværgående fokus på at skabe sammenhæng er, at det er nødvendigt med fælles rammer for sikkerhed, der definerer roller og ansvar for de forskellige komponenter. Der er desuden behov for, at den enkelte myndighed i sin sikkerhedspolitik og risikostyring inddrager disse sikkerhedsmæssige forhold.
 
@@ -452,7 +452,7 @@ Den enkelte myndighed skal som ansvarlig for sine selvbetjeningsløsninger etabl
 
 ##### Informationer
 
-Analyse af informationssikkerheden omfatter en analyse af de informationer (data), der skal behandles i løsningen, hvilken grad af fortrolighed og følsomhed de har, og hvordan fortrolighed og integritet sikres bedst muligt.
+Analyse af informationssikkerheden bør omfatte en analyse af de informationer (data), der skal behandles i løsningen, hvilken grad af fortrolighed og følsomhed de har, og hvordan fortrolighed og integritet sikres bedst muligt.
 
 Som en del af analysen af information bør der gennemføres en konsekvensvurdering for privatlivets databeskyttelse (også kaldet Privacy Impact Assessment, PIA). For statslige myndigheder er denne konsekvensvurdering obligatorisk for projekter, der følger den fællesstatslige projekt- og programmodel. En skabelon til formålet kan findes på Digitaliseringsstyrelsens hjemmeside .  
    
