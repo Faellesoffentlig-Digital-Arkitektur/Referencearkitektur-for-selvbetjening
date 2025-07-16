@@ -750,7 +750,7 @@ Er der tale om en tættere koordination af selvbetjeningsforløbene kan oplysnin
 
 Myndighederne skal i samarbejdet om en selvbetjeningskæde afklare, hvilke informationer der skal overdrages. Som udgangspunkt forventes det at være procesinformation (fx muligheden for at se, at der ligger en indsendt, men endnu ikke behandlet, flytning), som er relevant for og valid nok til at sikre en sammenhængende brugeroplevelse. Det kan også være oplysning om afgivne informationer, som ikke er godkendt af myndigheden.
 
-Det forventes ikke, at man ikke lagrer informationer, som er tilgængelige i fagsystemer eller grunddata og lign., eftersom det ikke er givet, at brugeren starter det næste selvbetjeningsforløb med det samme. Dermed kan data, der er lagret i overdragelseskonteksten, være forældet, når man går i gang med det næste selvbetjeningsforløb. Man skal i stedet lagre links eller anden anvisning til, hvorfra data i fagsystemer eller grunddata og lign. kan hentes. 
+Det forventes ikke, at man lagrer informationer, som er tilgængelige i fagsystemer eller grunddata og lign., eftersom det ikke er givet, at brugeren starter det næste selvbetjeningsforløb med det samme. Dermed kan data, der er lagret i overdragelseskonteksten, være forældet, når man går i gang med det næste selvbetjeningsforløb. Man skal i stedet lagre links eller anden anvisning til, hvorfra data i fagsystemer eller grunddata og lign. kan hentes. 
 
 Overdragelse kan ske såvel inden for samme ressortområde som mellem ressortområder. Gennem en sammenkædning specificeres kvalitetskrav til, hvordan to selvbetjeningsforløb kan knyttes sammen organisatorisk og teknisk med henblik på en automatisk overdragelse og igangsætning fra det første til det næste selvbetjeningsforløb.
 
@@ -839,9 +839,9 @@ Borgere eller udlændinge kan – ud over at være direkte aktører – optræde
 
 Virksomheder som aktør optræder gennem følgende roller i virksomheden: ejer, medarbejder eller supporter. Dertil kan virksomheder optræde som rådgiver. Rådgiveren kan enten repræsentere virksomheden eller vejlede virksomheden. En medarbejder i en offentlig virksomhed, der leverer selvbetjeningsløsninger, kan optræde som rådgiver (medbetjener) eller supporter over for brugere af deres selvbetjeningsløsninger. 
 
-Systemer kan afsende notifikationer (advis), der kan indgå i eller igangsætte et selvbetjeningsforløb. Et fagsystem kan fx igangsætte et selvbetjeningsforløb, evt. efter at forudsætningerne herfor er opfyldte. En implementering af et selvbetjeningsforløb kan fx indeholde afsendelse af en besked om, at man skal huske at afslutte sit selvbetjeningsforløb inden for en given frist. Eller at man på et givent tidspunkt skal fortsætte med det næste selvbetjeningsforløb i kæden, fordi de igangsatte aktiviteter i sagens behandling er afsluttet med et resultat, der betyder, at man kan gå videre.
+Systemer kan afsende notifikationer (Digital post/SMS), der kan indgå i eller igangsætte et selvbetjeningsforløb. Et fagsystem kan fx igangsætte et selvbetjeningsforløb, evt. efter at forudsætningerne herfor er opfyldte. En implementering af et selvbetjeningsforløb kan fx indeholde afsendelse af en besked om, at man skal huske at afslutte sit selvbetjeningsforløb inden for en given frist. Eller at man på et givent tidspunkt skal fortsætte med det næste selvbetjeningsforløb i kæden, fordi de igangsatte aktiviteter i sagens behandling er afsluttet med et resultat, der betyder, at man kan gå videre.
 
-Ting kan også tilsvarende afsende notifikationer (advis). Med ting menes sensorer og apparater, fx i sundhedssektoren, landbruget og lign. Man kan eksempelvis forestille sig en sensor hos en hjemmeliggende patient, der igangsætter, at patienten gennem selvbetjening skal forklare omstændigheder og konteksten for et givent måleresultat. 
+Ting, kan også tilsvarende afsende notifikationer (advis). Med ting menes sensorer og apparater, fx i sundhedssektoren, landbruget og lign. Man kan eksempelvis forestille sig en sensor hos en hjemmeliggende patient, der igangsætter, at patienten gennem selvbetjening skal forklare omstændigheder og konteksten for et givent måleresultat. 
 
 Alle aktører, der indgår i et selvbetjeningsforløb, hvor det er nødvendigt at kende deres identitet på et vist niveau af attributter og være autentificeret på et vist sikringsniveau, skal gennemføre et login. Dette login skal følge retningslinjerne i referencearkitektur for brugerstyring og anvende de fællesoffentlige forretningsservices hertil, således som det er beskrevet i [afsnittet om sikkerhed](/node/1100#sikkerhed).
 
@@ -889,7 +889,7 @@ Figur 9. Proces for forberedelse
 
 Selvbetjeningsforløbet kan startes ved at gå på borger.dk eller på kommunens hjemmeside for at orientere sig om, hvordan man søger boligstøtte. Her ledes man frem til selvbetjeningsforløbet, og når man klikker på linket, beder selvbetjeningsforløbet om et login via det fællesoffentlige eID , der identificerer ansøgeren gennem et to-faktor sikret certifikat. Herefter ledes brugeren gennem en interaktiv afklaring i tre trin, styret af selvbetjeningsløsningen. Der er undervejs i selvbetjeningsløsningen mulighed for at fremkalde hjælp eller vejledning. 
 
-Hvor meget af forberedelse, der placeres på en portal, og hvor meget der ligger i selvbetjeningsløsningen er altid et konkret valg. I den udstrækning portalen kender en brugers kontekst, kan portalen tilpasse indholdet på baggrund af, hvad den ved om brugeren. Hvis borger.dk fx ved, at brugeren modtager boligstøtte, er folkepensionist og bor i Varde, så kan vi tilpasse indholdet hertil og dermed foretage en del af den interaktive afklaring.
+Hvor meget af forberedelse, der placeres på en portal, og hvor meget der ligger i selvbetjeningsløsningen er altid et konkret valg. I den udstrækning portalen kender en brugers kontekst, kan portalen tilpasse indholdet på baggrund af, hvad den ved om brugeren. Hvis borger.dk fx ved, at brugeren modtager boligstøtte, er folkepensionist og bor i Varde, så kan indholdet tilpasses hertil og dermed foretage en del af den interaktive afklaring.
 
 Der vil være mange andre selvbetjeningsforløb, hvor forberedelsen er ganske kort eller helt kan springes over, fordi der er tale om et selvbetjeningsforløb, der gentages meget ofte og af de sammen medarbejdere hos virksomheder, som bliver trænet i at bruge selvbetjeningsløsningen. 
 
@@ -897,7 +897,7 @@ Der vil være mange andre selvbetjeningsforløb, hvor forberedelsen er ganske ko
 
 Figur 10. Forberedelse - trin 1 og 2
 
-I det tredje trin præsenteres brugeren for sin nuværende adresse, hentet fra grunddata, og brugeren oplyses om, hvor adressen kommer fra. Brugeren kan ændre denne adresse, hvis ikke det er der, der skal søges boligstøtte til. Adresseangivelsen bliver valideret, efterhånden som den angives op imod et vejregister, således at der ikke kan søges boligstøtte til en fiktiv adresse.
+I det tredje trin præsenteres brugeren for sin nuværende adresse, hentet fra grunddata, og brugeren oplyses om, hvor adressen kommer fra. Brugeren kan ændre denne adresse, hvis ikke det er der, der skal søges boligstøtte til. Adresseangivelsen bliver løbende valideret, efterhånden som den angives op imod et vejregister, således at der ikke kan søges boligstøtte til en fiktiv adresse.
 
 ![Figur 11.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2011.jpg)
 
@@ -920,7 +920,7 @@ Figur 13. Trin i kernen og et eksempel
 
 Brugeren hjælpes igennem hvert trin, og selvbetjeningsløsningen kender forretningsreglerne for at søge boligstøtte. Hvis brugeren fx angiver, at boligen ikke er en fast adresse, får man med det samme at vide, at man ikke kan få boligstøtte, og ansøgningsforløbet skal afsluttes, medmindre adressen tilrettes. 
 
-Selvbetjeningsløsningen kan kommunikere med grunddata om oplysninger på andre brugeres adresser og med eIndkomst for at hente indkomstoplysninger. Den validerer indtastningerne. Der er konstant kontekstnær hjælp, og man kan hele tiden få præsenteret de indtastede oplysninger i et resultatbillede. Herfra kan man gå frem og tilbage mellem de fem trin, som man nu har oplysninger til, og man kan uploade de dokumenter, en ansøgning kræver, man skal afgive som dokumentation.
+Selvbetjeningsløsningen kan hente og opdatere grunddata om oplysninger på andre brugeres adresser og med eIndkomst for at hente indkomstoplysninger. Den validerer indtastningerne. Der er konstant kontekstnær hjælp, og man kan hele tiden få præsenteret de indtastede oplysninger i et resultatbillede. Herfra kan man gå frem og tilbage mellem de fem trin, som man nu har oplysninger til, og man kan uploade de dokumenter, en ansøgning kræver, man skal afgive som dokumentation.
 
 ![Figur 14.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2014.jpg)
 
@@ -945,7 +945,7 @@ I tilrettelæggelse af selvbetjeningsforløb skal der tages højde for, at der e
 
 For mange virksomheder er der ikke tale om et enkeltstående selvbetjeningsforløb, men en løbende indberetning til forskellige myndigheder. Det kan gennemføres ved, at der i forberedelse eller kernen er mulighed for at genbruge tidligere indberetninger, evt. med ændringer. Det skal også være muligt for trænede brugere at springe en forberedelse over og gå direkte til kernen. Selvbetjeningsløsningen skal tilpasses de typiske målgrupper. 
 
-En af virksomheder meget anvendt mulighed er, at selvbetjening kombineres med maskinel indberetning. Derfor skal kernen kunne tilbyde en snitflade, der tillader en maskinel indberetning og en initiering fra det digitale værktøj, virksomhedens medarbejder anvender. Det kan være, at der er behov for at tilknytte funktionalitet i kernen, hvis der fx kræves servicegodkendelse eller kontrol af maskinelt indberettede oplysninger. Så skal disse muligheder bygges ind i snitfladen.
+En meget anvendt mulighed for virksomheder er, at selvbetjening kombineres med maskinel indberetning. Derfor skal kernen kunne tilbyde en snitflade, der tillader en maskinel indberetning og en initiering fra det digitale værktøj, virksomhedens medarbejder anvender. Det kan være, at der er behov for at tilknytte funktionalitet i kernen, hvis der fx kræves servicegodkendelse eller kontrol af maskinelt indberettede oplysninger. Så skal disse muligheder bygges ind i snitfladen.
 
 #### Portaler
 
