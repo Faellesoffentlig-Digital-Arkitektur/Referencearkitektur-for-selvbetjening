@@ -1020,7 +1020,7 @@ Indholdsstyringen anvender:
 
 Sproghåndtering indeholder den funktionalitet, der skal til, for at et selvbetjeningsforløb kan præsenteres på flere sprog. Det indebærer, at indholdet kan redigeres på flere sprog, og at de forskellige kald af funktionalitet også anvender det valgte sprog såvel som forstår information, der afgives på dette sprog.
 
-Teknologier til sprogoversættelse har gennemgået en stærk udvikling i de senere år, og det vil med flere investeringer bringe maskinel oversættelse frem til et brugbart niveau. Først som hjælp til oversættelse og senere til realtidsoversættelser af faste fraser. Derfor bør sproghåndtering indeholde en service, der leverer automatisk sprogoversættelse. Der vil dog gå nogle år, inden sprogoversættelse til og fra dansk er tilgængelig.
+Teknologier til sprogoversættelse har gennemgået en stærk udvikling i de senere år, og det vil med flere investeringer bringe maskinel oversættelse frem til et brugbart niveau. Først som hjælp til oversættelse og senere til realtidsoversættelser af faste fraser. Derfor bør sproghåndtering indeholde en service, der leverer automatisk sprogoversættelse. Der vil dog lidt tid, inden sprogoversættelse til og fra dansk er tilgængelig for alle de sprog som benyttes i danmark.
 
 ##### Funktionalitet
 
