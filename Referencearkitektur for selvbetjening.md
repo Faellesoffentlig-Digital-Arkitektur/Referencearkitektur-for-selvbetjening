@@ -438,9 +438,9 @@ Konsekvenserne af dette og af et mere tværgående fokus på at skabe sammenhæn
 
 ##### Love og regler
 
-I arbejdet med selvbetjeningsløsninger skal der dels tages højde for den konkrete lovgivning på området, dels generelle lovgivningsmæssige krav til informationssikkerhed. I det følgende nævnes de love og regler, der er kendt i oktober 2017. De generelle krav i blandt andet persondataloven og databeskyttelsesforordningen til sikker behandling af persondata rammesætter løsningernes tilrettelæggelse, adgangssikkerhed og teknologianvendelse (fx privacy by design, hvad og hvordan der kan gives adgang fra smartphones). 
+I arbejdet med selvbetjeningsløsninger skal der dels tages højde for den konkrete lovgivning på området, dels generelle lovgivningsmæssige krav til informationssikkerhed. Det kan omfatte generelle krav i blandt andet persondataloven og databeskyttelsesforordningen til sikker behandling af persondata, som rammesætter løsningernes tilrettelæggelse, adgangssikkerhed og teknologianvendelse (fx privacy by design, hvad og hvordan der kan gives adgang fra smartphones). 
 
-Kravene i persondataloven er uddybet i sikkerhedsbekendtgørelsen . Tilsvarende gælder for krav til sikkerhed i nationale politikker som National strategi for cyber- og informationssikkerhed  og Sikkerhedskrav i domæners digitale strategier. Endelig er Danmark fra september 2018 forpligtet til at anerkende nationale eID’er fra andre EU/EØS-lande, når en bruger ønsker at logge ind på en dansk selvbetjeningsløsning. 
+Kravene i persondataloven er uddybet i sikkerhedsbekendtgørelsen. Tilsvarende gælder for krav til sikkerhed i nationale politikker som National strategi for cyber- og informationssikkerhed og Sikkerhedskrav i domæners digitale strategier. Endelig er Danmark fra september 2018 forpligtet til at anerkende nationale eID’er fra andre EU/EØS-lande, når en bruger ønsker at logge ind på en dansk selvbetjeningsløsning. 
 
 Digitaliseringsstyrelsen og Justitsministeriet vejleder om de generelle love, regler mv., der skal indgå i arbejdet med informationssikkerhed .
 
