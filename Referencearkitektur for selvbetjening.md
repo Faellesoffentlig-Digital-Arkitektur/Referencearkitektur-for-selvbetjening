@@ -331,7 +331,7 @@ Løsningerne skal medvirke til en højere kvalitet af de data, der indberettes, 
 
 #### Værdiskabelse
 
-De målbare gevinster, disse strategiske mål skal tilvejebringe, er oplistet her. Realiseringen af referencearkitekturen vil skabe værdiværdi på følgende områder:
+De målbare gevinster, disse strategiske mål skal tilvejebringe, er oplistet her. Realiseringen af referencearkitekturen og fx anvendelse af "Det fælles Designsystem" vil skabe værdi på følgende områder:
 
 ##### 1\. Flere vellykkede brugerrejser
 
