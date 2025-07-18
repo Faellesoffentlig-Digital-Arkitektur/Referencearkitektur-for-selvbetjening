@@ -168,7 +168,7 @@ Referencearkitekturens er optaget i den fællesoffentlige rammearkitektur ved go
 
 ### Definitioner og begreber
 
-Kapitel 9 Begrebsmodel beskriver den centrale begrebsmodel for referencearkitekturens domæne. Denne begrebsmodel har været underkastet review af Styregruppen for data og arkitektur.
+Kapitel 9 Begrebsmodel beskriver den centrale begrebsmodel for referencearkitekturens domæne. Denne begrebsmodel har været underkastet review af Udvalget for arkitektur og standarder (UAS).
 
 Bilag B indeholder en samlet ordliste over referencearkitekturens begreber og terminologi. 
 
@@ -230,10 +230,10 @@ En bruger er her en person, der enten optræder som borger eller optræder i en 
 Et simpelt eksempel kunne være en borger, der gerne vil have hjælp til gratis befordring til behandling på sygehuset, som kunne forløbe som følger:
 
 * I forberedelsen (som i dette eksempel sker, efter borgeren er logget på med sit MitID), afklares det, om borgeren som udgangspunkt tilhører en målgruppe, der har ret til gratis befordring eller til at få refunderet befordringsomkostningerne.
-* En del af de nødvendige oplysninger (som fx om borgeren er pensionist, og hvor langt borgeren har til sygehuset) kan selvbetjeningsløsningen selv finde ved at slå op i relevante registre. Andre skal borgeren selv levere i selve kernen. 
-* I slutningen af forberedelsen får borgeren at vide, om han falder inden for en af de grupper, der har mulighed for at få sine transportudgifter helt eller delvist dækket, hvor han skal søge, og hvilken dokumentation han evt. skal have klar. 
-* Efter forberedelsen ledes borgeren til det relevante ansøgningsforløb (kernen), hvor han fx uploader dokumentation eller booker transport samt indtaster evt. øvrig påkrævet information. 
-* I afrundingen får borgeren dels en kvittering for de oplysninger, han har sendt (ansøgning), dels besked om, hvad det videre forløb vil være (fx at han vil få en mail med nærmere oplysninger om transporten, eller hvornår han vil få refunderet sine udgifter). Desuden kan han få at vide, hvem han kan kontakte, hvis han har spørgsmål.
+* En del af de nødvendige oplysninger (som fx om borgeren er pensionist, og hvor langt borgeren har til sygehuset) kan selvbetjeningsløsningen selv finde ved at slå op i relevante registre. Andre oplysninger skal borgeren selv levere i selve kernen. 
+* I slutningen af forberedelsen får borgeren at vide, om borgeren falder inden for en af de grupper, der har mulighed for at få transportudgifter helt eller delvist dækket, hvor borgeren skal søge og hvilken dokumentation borger evt. skal have klar. 
+* Efter forberedelsen ledes borgeren til det relevante ansøgningsforløb (kernen), hvor borgeren fx uploader dokumentation eller booker transport samt indtaster evt. øvrig påkrævet information. 
+* I afrundingen får borgeren dels en kvittering for de oplysninger, borgeren har sendt (ansøgning), dels besked om, hvad det videre forløb vil være (fx at borgeren vil få en mail med nærmere oplysninger om transporten, eller hvornår borgeren vil få refunderet sine udgifter). Desuden kan borgeren få at vide, hvem der kan kontaktes for yderligere spørgsmål.
 
 #### Brugerrejser, hvor der skal løses flere opgaver
 
