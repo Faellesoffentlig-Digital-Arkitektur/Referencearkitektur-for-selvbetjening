@@ -873,7 +873,7 @@ Processer for selvbetjening kan have mange forskellige forløb og omfang. Det ka
 
 I det følgende beskrives et enkelt selvbetjeningsforløb som nedenstående (uddrag af figur i [afsnittet om beskrivelse af emnet selvbetjening](https://fda-preprod.digst.govcloud.dk/node/1100#beskrivelse-af-emnet-selvbetjening)).
 
-![Figur 8.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%208.jpg)
+![Figur 8.jpg](assets/Figur%208.jpg)
 
 Figur 8. Enkelt forløb
 
@@ -883,7 +883,7 @@ Som gennemgående eksempel er valgt ansøgning om boligstøtte. Her beskrives pr
 
 I praksis er der tale om en sammenhængende proces, der er tilrettelagt, så den opleves som én brugerrejse. I eksemplet er overdragelse konstrueret - det er ikke en del af det eksisterende selvbetjeningsforløb for boligstøtte. 
 
-![Figur 9.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%209.jpg)
+![Figur 9.jpg](assets/Figur%209.jpg)
 
 Figur 9. Proces for forberedelse
 
@@ -893,13 +893,13 @@ Hvor meget af forberedelse, der placeres på en portal, og hvor meget der ligger
 
 Der vil være mange andre selvbetjeningsforløb, hvor forberedelsen er ganske kort eller helt kan springes over, fordi der er tale om et selvbetjeningsforløb, der gentages meget ofte og af de sammen medarbejdere hos virksomheder, som bliver trænet i at bruge selvbetjeningsløsningen. 
 
-![Figur 10.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2010.jpg)
+![Figur 10.jpg](assets/Figur%2010.jpg)
 
 Figur 10. Forberedelse - trin 1 og 2
 
 I det tredje trin præsenteres brugeren for sin nuværende adresse, hentet fra grunddata, og brugeren oplyses om, hvor adressen kommer fra. Brugeren kan ændre denne adresse, hvis ikke det er der, der skal søges boligstøtte til. Adresseangivelsen bliver løbende valideret, efterhånden som den angives op imod et vejregister, således at der ikke kan søges boligstøtte til en fiktiv adresse.
 
-![Figur 11.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2011.jpg)
+![Figur 11.jpg](assets/Figur%2011.jpg)
 
 Figur 11. Forberedelse - trin 3
 
@@ -908,13 +908,13 @@ I hele selvbetjeningsforløbet er der hele tiden mulighed for at kontakte Udbeta
 Når man er igennem afklaringen, er det sikret, at man starter korrekt på selvbetjeningsforløbets kerne.       
  
 
-![Figur 12.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2012.jpg)
+![Figur 12.jpg](assets/Figur%2012.jpg)
 
 Figur 12. Kernen i selvbetjeningsforløbet
 
 I kernen præsenteres man for at skulle afgive alle de oplysninger, som skal bruges til at behandle ansøgningen.
 
-![Figur 13.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2013.jpg)
+![Figur 13.jpg](assets/Figur%2013.jpg)
 
 Figur 13. Trin i kernen og et eksempel
 
@@ -922,7 +922,7 @@ Brugeren hjælpes igennem hvert trin, og selvbetjeningsløsningen kender forretn
 
 Selvbetjeningsløsningen kan hente og opdatere grunddata om oplysninger på andre brugeres adresser og med eIndkomst for at hente indkomstoplysninger. Den validerer indtastningerne. Der er konstant kontekstnær hjælp, og man kan hele tiden få præsenteret de indtastede oplysninger i et resultatbillede. Herfra kan man gå frem og tilbage mellem de fem trin, som man nu har oplysninger til, og man kan uploade de dokumenter, en ansøgning kræver, man skal afgive som dokumentation.
 
-![Figur 14.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2014.jpg)
+![Figur 14.jpg](assets/Figur%2014.jpg)
 
 Figur 14. Vis resultat i kernen
 
@@ -931,7 +931,7 @@ Hele vejen gennem forløbet bliver oplysningerne valideret - også op imod forre
 Til sidst kan brugeren inspicere resultatet af indtastningerne og gennem en markering angive, at oplysningerne er korrekte, og at brugeren afgiver samtykke til at indhente og videregive de oplysninger, der er nødvendige for at gennemføre ansøgningen. Med dette samtykke er man sømløst startet på selvbetjeningsforløbets afrunding.   
  
 
-![Figur 15.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2015.jpg)
+![Figur 15.jpg](assets/Figur%2015.jpg)
 
 Figur 15. afrunding og overdragelse
 
@@ -1164,7 +1164,7 @@ Infrastruktursynsvinkelen dækker to områder:
 * Dels de komponenter og services, som der udvikles og drives fællesoffentligt med henblik på at facilitere interoperabilitet på tværs af blandt andet alle offentlige digitale løsninger.
 * Dels services, lager og netværkskomponenter, der implementerer hosting-services og netværksservices. Denne referencearkitektur beskriver ikke komponenter på dette område.
 
-![Figur 17.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2017.jpg)
+![Figur 17.jpg](assets/Figur%2017.jpg)
 
 Figur 17. Teknologisk synsvinkel - Infrastruktur
 
