@@ -146,7 +146,7 @@ Referencearkitekturen kan anvendes i sammenhæng med andre fællesoffentlige ref
 
 Generelt kan en referencearkitekturs rolle illustreres ved følgende figur:
 
-![Figur 1.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%201.jpg)
+![Figur 1.jpg](assets/Figur%201.jpg)
 
 Figur 1. Referencearkitekturens rolle
 
@@ -219,7 +219,7 @@ Med arkitektens perspektiv beskrives det som et selvbetjeningsforløb med forber
 
 Referencearkitekturen beskriver desuden rammerne for, at brugerrejser, der omfatter flere selvbetjeningsforløb, kan kædes sammen i selvbetjeningskæder med efterfølgende større brugertilfredshed. Selvbetjeningsforløb kædes sammen gennem overdragelse, og referencearkitekturen tager højde for, at overdragelse kan ske mellem forskellige ressortområder.
 
-![Figur 2.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%202.jpg)
+![Figur 2.jpg](assets/Figur%202.jpg)
 
 Figur 2. Selvbetjeningsforløb
 
@@ -250,7 +250,7 @@ Fra forberedelse i boligstøtteløsningen kan borgeren så gå videre til flytte
 
 I dette tilfælde kan flytningen gennemføres som en straksafgørelse. Borgeren får derfor også som en del af afrundingen at vide, at han (gennem en overdragelse (6)) kan vende tilbage til boligstøtteansøgningen og færdiggøre denne. 
 
-![Figur 3.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%203.jpg)
+![Figur 3.jpg](assets/Figur%203.jpg)
 
 Figur 3. Selvbetjeningskæde med to sammenkædede selvbetjeningsforløb, der løser hver sin opgave
 
@@ -592,7 +592,7 @@ Implikationer
 
 I dette afsnit beskrives en terminologi og begrebsmodel for selvbetjeningsforløb. Begrebsmodellen er på et generelt og overordnet logisk niveau. Det betyder, at den ikke er bundet til en bestemt type person, organisation, anvendelse eller implementering.  
 
-![Figur 4.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%204.jpg)
+![Figur 4.jpg](assets/Figur%204.jpg)
 
 Figur 4. Begrebsmodel for selvbetjeningsforløb
 
@@ -664,7 +664,7 @@ Figur 5 viser en oversigt over de opgaver, der skal løses i forbindelse med sel
    
  
 
-![Figur 5.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%205.jpg)
+![Figur 5.jpg](assets/Figur%205.jpg)
 
 Figur 5. Kapabiliteter og aktører i selvbetjeningsforløb og selvbetjeningskæder
 
@@ -790,7 +790,7 @@ I de selvbetjeningsforløb, der realiseres med flere selvbetjeningsløsninger, f
 
 Når selvbetjeningsforløbet er afsluttet, lagres (persisteres) de informationer, der er nødvendige for sagsbehandling og logning. Myndigheden skal afklare, om den har hjemmel til, at informationer kan anvendes til andre formål hos myndigheden, fx opdatering af brugerprofiler. Hvis ikke skal der indhentes samtykke.
 
-![Figur 6.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%206.jpg)
+![Figur 6.jpg](assets/Figur%206.jpg)
 
 Figur 6. Funktionaliteten af selvbetjeningskonteksten
 
@@ -798,7 +798,7 @@ Figur 6. Funktionaliteten af selvbetjeningskonteksten
 
 En overdragelseskontekst er den del af selvbetjeningskonteksten, som har relevans for et givent efterfølgende selvbetjeningsforløb, og som ikke kræver efterfølgende myndighedsgodkendelse eller verificering, før det kan anvendes i det efterfølgende forløb. Hvis overdragelsen sker på tværs af forvaltnings-/myndighedsgrænser, kræver det hjemmel eller et samtykke fra brugeren.
 
-![Figur 7.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%207.jpg)
+![Figur 7.jpg](assets/Figur%207.jpg)
 
 Figur 7. Funktionaliteten ”overdragelseskontekst”
 
@@ -983,7 +983,7 @@ Figur 16. Mulige komponenter i selvbetjeningsforløb viser mulige komponenter ti
 Der er i beskrivelsen af komponenter i dette afsnit lagt vægt på at beskrive disse på en måde, så det ikke medfører krav om konkrete teknologier eller produkter. I [afsnittet om realiseringsmodeller](/node/1100#realiseringsmodeller) er der beskrevet mulige realiseringsmodeller for nogle af komponenterne.  
  
 
-![Figur 16.jpg](C:\Users\B339605\Documents\GitHub\Referencearkitektur-for-selvbetjening\assets\Figur%2016.jpg)
+![Figur 16.jpg](assets/Figur%2016.jpg)
 
 Figur 16. Mulige komponenter i selvbetjeningsforløb
 
