@@ -871,7 +871,7 @@ Denne referencearkitektur benytter sig af forretningsservices, forretningsfunkti
 
 Processer for selvbetjening kan have mange forskellige forløb og omfang. Det kan spænde fra at læse årsopgørelsen fra SKAT og ikke gøre noget, over et enkelt kort forløb til at løse alle opgaver i forbindelse med oprettelse af ny virksomhed – i bedste fald en kæde af sammensatte selvbetjeningsforløb.
 
-I det følgende beskrives et enkelt selvbetjeningsforløb som nedenstående (uddrag af figur i [afsnittet om beskrivelse af emnet selvbetjening](/node/1100#beskrivelse-af-emnet-selvbetjening).
+I det følgende beskrives et enkelt selvbetjeningsforløb som nedenstående (uddrag af figur i [afsnittet om beskrivelse af emnet selvbetjening](/node/1100#beskrivelse-af-emnet-selvbetjening).)
 
 ![Figur 8.jpg](assets/Figur%208.jpg)
 
