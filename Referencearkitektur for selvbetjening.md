@@ -1119,7 +1119,7 @@ Datafordeleren omfatter de grunddata, som nu og i fremtiden bliver tilgængelige
 
 #### Realiseringsmodeller
 
-Som nævnt i indledning til Del C eksisterer der i markedet mange forskellige formularplatforme og udviklingsrammeværk, som alle i større eller mindre grad indeholder de beskrevne applikationskomponenter i [afsnittet om komponenter](https://fda-preprod.digst.govcloud.dk/node/1100#komponenter). I dette afsnit gives en kort karakteristik af de forskellige muligheder. 
+Som nævnt i indledning til Del C eksisterer der i markedet mange forskellige formularplatforme og udviklingsrammeværk, som alle i større eller mindre grad indeholder de beskrevne applikationskomponenter i [afsnittet om komponenter](/node/1100#komponenter). I dette afsnit gives en kort karakteristik af de forskellige muligheder. 
 
 ##### Suiter
 
