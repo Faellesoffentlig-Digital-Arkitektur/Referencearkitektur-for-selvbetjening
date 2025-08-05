@@ -283,7 +283,7 @@ Afsættet for denne referencearkitektur er den fællesoffentlige digitaliserings
 **Vision**  
 Borgere og virksomheder oplever – når de skal løse opgaver digitalt i selvbetjeningsløsninger – at de kan gøre det let, hurtigt og overskueligt, også når deres brugerrejse inkluderer flere selvbetjeningsløsninger. De offentlige selvbetjeningsløsninger er indrettet med udgangspunkt i brugernes behov og skaber således sammenhæng, tryghed og sikkerhed for borgere og virksomheder, også når de går på tværs af myndigheds- og sektorgrænser.
 
-En gennemførelse af referencearkitekturens anbefalinger vil medføre, at borgere og virksomheder i højere grad end i dag kan betjene sig selv digitalt i forhold til det offentlige på både en tryg og effektiv måde. Myndighederne vil modtage data, der er mere korrekte og komplette, der vil færre tilbageløb i processerne og mulighed for en højere grad af automatisering. Brugerne skal have mulighed for at vælge og skifte kanal efter behov. Resultatet vil være større brugertilfredshed, mere effektive processer og en højere kvalitet i data og i sagsbehandlingen.
+En gennemførelse af referencearkitekturens anbefalinger vil medføre, at borgere og virksomheder i højere grad end i dag kan betjene sig selv digitalt i forhold til det offentlige på både en tryg og effektiv måde. Myndighederne vil modtage data, der er mere korrekte og komplette, der vil være færre tilbageløb i processerne og mulighed for en højere grad af automatisering. Brugerne skal have mulighed for at vælge og skifte kanal efter behov. Resultatet vil være større brugertilfredshed, mere effektive processer og en højere kvalitet i data og i sagsbehandlingen.
 
 ##### Scope for arkitekturen
 
