@@ -839,7 +839,7 @@ Borgere eller udlændinge kan – ud over at være direkte aktører – optræde
 
 Virksomheder som aktør optræder gennem følgende roller i virksomheden: ejer, medarbejder eller supporter. Dertil kan virksomheder optræde som rådgiver. Rådgiveren kan enten repræsentere virksomheden eller vejlede virksomheden. En medarbejder i en offentlig virksomhed, der leverer selvbetjeningsløsninger, kan optræde som rådgiver (medbetjener) eller supporter over for brugere af deres selvbetjeningsløsninger. 
 
-Systemer kan afsende notifikationer (Digital post/SMS), der kan indgå i eller igangsætte et selvbetjeningsforløb. Et fagsystem kan fx igangsætte et selvbetjeningsforløb, evt. efter at forudsætningerne herfor er opfyldte. En implementering af et selvbetjeningsforløb kan fx indeholde afsendelse af en besked om, at man skal huske at afslutte sit selvbetjeningsforløb inden for en given frist. Eller at man på et givent tidspunkt skal fortsætte med det næste selvbetjeningsforløb i kæden, fordi de igangsatte aktiviteter i sagens behandling er afsluttet med et resultat, der betyder, at man kan gå videre.
+Systemer kan afsende notifikationer (advis, fx med Digital post eller SMS), der kan indgå i eller igangsætte et selvbetjeningsforløb. Et fagsystem kan fx igangsætte et selvbetjeningsforløb, evt. efter at forudsætningerne herfor er opfyldte. En implementering af et selvbetjeningsforløb kan fx indeholde afsendelse af en besked om, at man skal huske at afslutte sit selvbetjeningsforløb inden for en given frist. Eller at man på et givent tidspunkt skal fortsætte med det næste selvbetjeningsforløb i kæden, fordi de igangsatte aktiviteter i sagens behandling er afsluttet med et resultat, der betyder, at man kan gå videre.
 
 Ting, kan også tilsvarende afsende notifikationer (advis). Med ting menes sensorer og apparater, fx i sundhedssektoren, landbruget og lign. Man kan eksempelvis forestille sig en sensor hos en hjemmeliggende patient, der igangsætter, at patienten gennem selvbetjening skal forklare omstændigheder og konteksten for et givent måleresultat. 
 
@@ -920,7 +920,7 @@ Figur 13. Trin i kernen og et eksempel
 
 Brugeren hjælpes igennem hvert trin, og selvbetjeningsløsningen kender forretningsreglerne for at søge boligstøtte. Hvis brugeren fx angiver, at boligen ikke er en fast adresse, får man med det samme at vide, at man ikke kan få boligstøtte, og ansøgningsforløbet skal afsluttes, medmindre adressen tilrettes. 
 
-Selvbetjeningsløsningen kan hente og opdatere grunddata om oplysninger på andre brugeres adresser og med eIndkomst for at hente indkomstoplysninger. Den validerer indtastningerne. Der er konstant kontekstnær hjælp, og man kan hele tiden få præsenteret de indtastede oplysninger i et resultatbillede. Herfra kan man gå frem og tilbage mellem de fem trin, som man nu har oplysninger til, og man kan uploade de dokumenter, en ansøgning kræver, man skal afgive som dokumentation.
+Selvbetjeningsløsningen kan kommunikere med grunddata om oplysninger på andre brugeres adresser og med eIndkomst for at hente indkomstoplysninger. Den validerer indtastningerne. Der er konstant kontekstnær hjælp, og man kan hele tiden få præsenteret de indtastede oplysninger i et resultatbillede. Herfra kan man gå frem og tilbage mellem de fem trin, som man nu har oplysninger til, og man kan uploade de dokumenter, en ansøgning kræver, man skal afgive som dokumentation.
 
 ![Figur 14.jpg](assets/Figur%2014.jpg)
 
