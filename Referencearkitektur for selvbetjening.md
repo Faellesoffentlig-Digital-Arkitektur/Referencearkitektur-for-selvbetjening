@@ -300,7 +300,7 @@ Uden for scope er:
 
 #### 
 
-As-is situationen
+As-is situationen (2017)
 
 Med indførelse af obligatorisk selvbetjening på en række områder er en stor del af borgernes og virksomhedernes indrapportering af data til ansøgninger, løbende sager,  m.m. blevet digitale. Det har bidraget til at sikre Danmarks førerposition, når det drejer sig om digital kommunikation mellem borgere og virksomheder og myndighederne.
 
