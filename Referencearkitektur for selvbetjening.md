@@ -728,7 +728,7 @@ Endelig skal der i afrunding tages stilling til, hvad der skal ske med selvbetje
 
 ###### Forskellige overdragelsesformer
 
-Når en situation for en bruger kræver, at der løses to eller flere opgaver, der har hver sit selvbetjeningsforløb, skal man gennem overdragelse sikre, at brugeren oplever brugerrejsen som smidig og sammenhængende. Overdragelse kan ske på flere måder. 
+Mange selvbetjeningsforløb er enkeltstående og indgår ikke i en situation, hvor der er behov for at gennemføre yderligere forløb. Når en brugers livssituation kræver, at der løses to eller flere opgaver, der har hver sit selvbetjeningsforløb, skal man gennem overdragelse sikre, at brugeren oplever brugerrejsen som smidig og sammenhængende. Overdragelse kan ske på flere måder. 
 
 Sammenkædning af selvbetjeningsforløb er relevant, hvor der inden for en forholdsvis kort tidsperiode skal udføres flere opgaver i sammenhæng. Med en forholdsvis kort tidsperiode forstås et forløb, der varer få timer og højst få dage, hvilket har betydning for organiseringen af overdragelsen. Det indgår i overdragelsen, at myndighederne aftaler, hvor lang tid sammenhæng fastholdes, og dermed hvor længe overdragelseskonteksten lagres. Dette oplyses for brugeren.
 
