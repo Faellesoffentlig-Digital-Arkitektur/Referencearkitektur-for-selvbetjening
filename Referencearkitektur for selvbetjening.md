@@ -345,7 +345,7 @@ Den samlede brugertilfredshed med selvbetjeningsløsningerne kan måles med de r
 
 Når brugerne i højere grad bliver hjulpet i vejen ind og ud ad løsningen, i forståelsen af den efterfølgende proces og i datavalideringen af de oplysninger, de afleverer, antages det, at behovet for kontakt på andre kanaler undervejs i forløbet reduceres. Det gælder i forhold til kontakter, initieret af brugeren (hvis vedkommende har behov for hjælp eller tryghed i processen), det gælder kontakter, initieret af myndigheden (hvis der er fejl eller mangler i de indsendte data/dokumentation), og det gælder til dels også afslag (hvis brugeren slet ikke er berettiget til det ansøgte eller evt. skulle have foretaget sig noget andet først).
 
-Dette kan måles ved at tælle, hvor mange henvendelser myndigheden selv tager initiativ til og hvormange som skyldes mangler set fra brugerens synspunkt.
+Dette kan måles ved at tælle, hvor mange henvendelser myndigheden selv tager initiativ til og hvor mange henvendelser som kommer direkte fra brugeren.
 
 ##### 3\. Løsninger, der er hurtigere at udvikle og vedligeholde
 
