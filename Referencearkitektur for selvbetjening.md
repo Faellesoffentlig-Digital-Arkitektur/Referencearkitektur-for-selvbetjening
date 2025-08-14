@@ -965,7 +965,7 @@ Fokus i dette afsnit er på at beskrive, hvilke tekniske komponenter der skal in
 
 Selvbetjeningsløsninger kan realiseres med teknologiske muligheder, der omfatter både klassiske webløsninger, målrettede platforme, mobile apps og microservices. Området er præget af en hurtig og omfattende udvikling internationalt, og det har stor betydning for, hvordan forretningskapabiliteter realiseres i tekniske komponenter. Der eksisterer i markedet mange forskellige formularplatforme og udviklingsrammeværk, som alle i større eller mindre grad indeholder de nævnte applikationskomponenter, som denne referencearkitektur udpeger. ”Interaktive brugerbidrag” kan fx realiseres som enkeltstående formularapplikationer, som komponenter i CMS (Content Management Systems) og i processtyringsplatforme.
 
-Rammearkitekturens anvisninger vedrørende applikationskomponenter og fællesoffentlige infrastrukturkomponenter beskriver den funktionalitet, som de forskellige dele bør have, med henblik på:
+Den fællesoffentlige rammearkitektur anvisninger vedrørende applikationskomponenter og fællesoffentlige infrastrukturkomponenter beskriver den funktionalitet, som de forskellige dele bør have, med henblik på:
 
 * At implementere selvbetjeningsforløb med velfungerende interaktive elementer til spørgsmål/svar og stor brug af allerede kendte data, som det offentlige har adgang til og har ret til at anvende i det konkrete selvbetjeningsforløb.
 * At sikre lige stor vægt i tilrettelæggelsesfasen på forberedelse, kernen og afrunding samt overdragelse, når dette element indgår. Under tilrettelæggelsen afgøres, hvilken vægtning af kapabiliteterne der er den rette i den konkrete selvbetjeningsløsning. 
@@ -1073,7 +1073,7 @@ Regelhåndteringen kan læse og opdatere selvbetjeningskonteksten. 
 
 ##### Integration
 
-Integration varetager al dataudveksling mellem selvbetjeningsløsningen og datakilder såvel inden for som uden for myndighedens ansvarsområde. Datatransport og datas validitet skal overholde de kvalitetsniveauer, som fastlægges af myndigheden for disse dataudvekslinger. Det er kvalitetsniveauer som disse :
+Integration varetager al dataudveksling mellem selvbetjeningsløsningen og datakilder såvel inden for som uden for myndighedens ansvarsområde. Datatransport og datas validitet skal overholde de kvalitetsniveauer, som fastlægges af myndigheden for disse dataudvekslinger. Det er kvalitetsniveauer som disse:
 
 * Karakteristik af de informationer, der overdrages: Den begrebsmodel, der definerer betydningen af de data, der repræsenterer informationen, datas format og volumen, eventuelle metadata tilknyttes.
 * Karakteristik af datakilden: validitet, aktualitet, følsomhed, gyldighed og lokation.
@@ -1151,7 +1151,7 @@ Gennem de senere år har det internationale marked udviklet en ny type softwarea
 
 Microservices er services, der opbygges til at implementere de basale kapabiliteter, som en given forretningssituation tilsiger. For disse kapabiliteter konstrueres en applikationskomponent med al logik, beregning og data indkapslet i en snitflade (et Application Programming Interface, API). Sådanne microservices kan idriftsættes uafhængigt af hinanden, hvilket betyder, at ny funktionalitet og nye versioner ikke spænder ben for hinanden. Det betyder også, at de microservices, der belastes hårdt, blot kan dubleres og dermed hurtigt matche det load, de præsenteres for. 
 
-Microservices leverer så sin funktionalitet gennem snitflader , som en brugerfladeimplementering eller en integrationsservice kalder på vegne af en brugerfladeimplementering på en enhed. En sådan integrationsservice skal være meget hurtig og effektiv, hvorfor de eksisterende Enterprise Service-busser (ESB) ikke er anvendelige i de fleste tilfælde. I stedet anvendes en smal integrationsbus, hvor man kun aftaler transportformen og et adresselager. Derefter overlader man til hvert API at foretage alt andet for at realisere dataudvekslingen med den nødvendige kvalitet. Dette kan reduceres til, hvad der lige præcist er nødvendigt for den enkelte microservice og ikke andet. Der findes platforme på markedet, der håndterer dette. 
+Microservices leverer så sin funktionalitet gennem snitflader, som en brugerfladeimplementering eller en integrationsservice kalder på vegne af en brugerfladeimplementering på en enhed. En sådan integrationsservice skal være meget hurtig og effektiv, hvorfor de eksisterende Enterprise Service-busser (ESB) ikke er anvendelige i de fleste tilfælde. I stedet anvendes en smal integrationsbus, hvor man kun aftaler transportformen og et adresselager. Derefter overlader man til hvert API at foretage alt andet for at realisere dataudvekslingen med den nødvendige kvalitet. Dette kan reduceres til, hvad der lige præcist er nødvendigt for den enkelte microservice og ikke andet. Der findes platforme på markedet, der håndterer dette. 
 
 Med et større antal API’er i spil er der behov for, at man har en styringskomponent, som håndterer, hvilke API’er der kalder hvilke. Dette håndterer sameksistensen af flere versioner af den samme microservice samt de sikkerhedskrav, der gælder, såvel som andre af de kvalitative krav til integrationer. Der findes platforme på markedet, der håndterer dette.
 
@@ -1249,7 +1249,7 @@ I en distribueret arkitektur er det derfor nødvendigt med fælles rammer for si
 * Hvis en tjenesteudbyder undlader at implementere log out i tjenesten, betyder det, at en person med adgang til en brugers udstyr kan udnytte en session til at tilgå denne eller en anden tjeneste og fx få adgang til eller ændre data i tjenester og i registreringer vedrørende personen.
 * Hvis en tjenesteudbyder indhenter et samtykke hos brugeren, skal det også sikres, at brugeren har mulighed for at tilbagekalde dette samtykke.
 
-Der er her nævnt de vigtigste opmærksomhedspunkter, men man skal altid genbesøge referencearkitektur for brugerstyring og sikre sig, at man kommer omkring alle sikkerhedsovervejelser.
+Der er her nævnt de vigtigste opmærksomhedspunkter, men man skal altid genbesøge [referencearkitektur for brugerstyring](https://arkitektur.digst.dk/node/1098) og sikre sig, at man kommer omkring alle sikkerhedsovervejelser.
 
 ## Bilag A: Tjekliste for vigtige egenskaber
 
