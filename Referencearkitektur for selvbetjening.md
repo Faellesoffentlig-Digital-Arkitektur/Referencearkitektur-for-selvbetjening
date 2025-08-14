@@ -466,7 +466,7 @@ Analyse af de tekniske forhold omfatter, hvordan løsningen teknisk set kan leve
 
 ##### Interoperabilitet
 
-Da selvbetjeningsløsninger udstilles på internettet og indgår i samspil med andre tjenester, er sikkerheden ikke kun afhængig af forhold i den enkelte myndighed, men afhænger også af den infrastruktur og de komponenter, der leveres af andre parter. Det gælder fx de fællesoffentlige komponenter til brugerstyring (nationalt eID , login, rettigheder, fuldmagt og samtykke), portaler og Digital Post. Myndigheden kan bygge på sikkerheden i disse komponenter (som beskrevet i fx referencearkitektur for brugerstyring) og skal i sin sikkerhedspolitik tage højde for, at sikkerheden i myndighedens egen løsning er afhængig af sikkerheden i den samlede kæde af komponenter og infrastruktur. I afsnittet om [krav til sikkerhed](/node/1100#krav-til-sikkerhed) beskrives dette.
+Da selvbetjeningsløsninger udstilles på internettet og indgår i samspil med andre tjenester, er sikkerheden ikke kun afhængig af forhold i den enkelte myndighed, men afhænger også af den infrastruktur og de komponenter, der leveres af andre parter. Det gælder fx de fællesoffentlige komponenter til brugerstyring (nationalt eID login, rettigheder, fuldmagt og samtykke), portaler og Digital Post. Myndigheden kan bygge på sikkerheden i disse komponenter (som beskrevet i fx referencearkitektur for brugerstyring) og skal i sin sikkerhedspolitik tage højde for, at sikkerheden i myndighedens egen løsning er afhængig af sikkerheden i den samlede kæde af komponenter og infrastruktur. I afsnittet om [krav til sikkerhed](/node/1100#krav-til-sikkerhed) beskrives dette.
 
 Selvbetjeningsløsninger på internettet er udsatte for en række risici, og de skal derfor følge krav til cybersikkerhed både i løsningerne selv, men også i forhold til risici i brugernes udstyr og deres anvendelse heraf.
 
@@ -531,14 +531,14 @@ Rationale
 Implikationer
 
 * Brugere skal i den enkelte selvbetjeningsløsning (som udgangspunkt) kun inddatere information, som det offentlige ikke har i forvejen.
-* Det indebærer, at det offentlige skal opbygge løsninger til sikkert og effektivt at lagre og dele inddateret information og anvende aftalte integrationsmønstre (hvilket kræver en langsigtet indsats). Den enkelte selvbetjeningsløsning skal efterleve princippet i det omfang, det er muligt at hente og aflevere data til fællesoffentligt brug . 
+* Det indebærer, at det offentlige skal opbygge løsninger til sikkert og effektivt at lagre og dele inddateret information og anvende aftalte integrationsmønstre (hvilket kræver en langsigtet indsats). Den enkelte selvbetjeningsløsning skal efterleve princippet i det omfang, det er muligt at hente og aflevere data til fællesoffentligt brug. 
 * Brugere skal have sikkerhed for, at den præsenterede information er korrekt, og der skal være klare regler for, hvad brugeren skal gøre, hvis informationen vurderes ikke at være korrekt. Selvbetjeningsløsningen skal da kunne håndtere at agere korrekt på en sådan påstand og have afklaret, om brugeren henvises til informationskilden, eller om informationen skal rettes i selvbetjeningsløsningen.
-* Myndigheder og udviklere skal i tilrettelæggelsen af løsningen kortlægge, hvorfra de nødvendige informationer til selvbetjeningsforløbet og den tilhørende sagsbehandling kan indhentes og dernæst indhente den derfra. Denne kortlægning omfatter både juridiske , tekniske og andre relevante forhold. Den skal også omfatte eventuelle ændringer i indhentet information, hvis selvbetjeningsforløbet gennemføres over længere tid, fx ved afbrydelse og genoptagelse.
+* Myndigheder og udviklere skal i tilrettelæggelsen af løsningen kortlægge, hvorfra de nødvendige informationer til selvbetjeningsforløbet og den tilhørende sagsbehandling kan indhentes og dernæst indhente den derfra. Denne kortlægning omfatter både juridiske, tekniske og andre relevante forhold. Den skal også omfatte eventuelle ændringer i indhentet information, hvis selvbetjeningsforløbet gennemføres over længere tid, fx ved afbrydelse og genoptagelse.
 * Hvis der kræves samtykke til at indhente oplysninger, skal dette indhentes som del af selvbetjeningsløsningen.
 
 ##### #4 Brugerne oplever en sammenhængende service, også på tværs af myndigheder
 
-Brugerne skal opleve en sammenhængende service, også når den går på tværs af flere myndigheder eller forvaltningsområder i en myndighed. Opgaveløsningen skal så vidt muligt tilrettelægges efter brugernes perspektiv uanset myndighedsskel .
+Brugerne skal opleve en sammenhængende service, også når den går på tværs af flere myndigheder eller forvaltningsområder i en myndighed. Opgaveløsningen skal så vidt muligt tilrettelægges efter brugernes perspektiv uanset myndighedsskel.
 
 Rationale
 
@@ -549,7 +549,7 @@ Rationale
 
 Implikationer
 
-* Myndigheder og udviklere skal i tilrettelæggelse af selvbetjeningsløsningen understøtte sammenhængende brugerrejser, bl.a. ved at afklare hvilke selvbetjeningsforløb i myndigheden og i andre myndigheder der indgår i livs-/virksomhedssituationen. Det skal ske ud fra en vurdering af, hvor der indgår væsentlige forhold for brugerne, fx hvis der er lovgivningsmæssige krav, der fordrer en sammenhæng . 
+* Myndigheder og udviklere skal i tilrettelæggelse af selvbetjeningsløsningen understøtte sammenhængende brugerrejser, bl.a. ved at afklare hvilke selvbetjeningsforløb i myndigheden og i andre myndigheder der indgår i livs-/virksomhedssituationen. Det skal ske ud fra en vurdering af, hvor der indgår væsentlige forhold for brugerne, fx hvis der er lovgivningsmæssige krav, der fordrer en sammenhæng. 
 * Hvis der indgår andre selvbetjeningsforløb i livs-/virksomhedssituationen, bør myndigheden bidrage til at sikre, at der skabes en sammenhængende service. Det kan ske i én løsning eller i flere løsninger, hvor der med relevante midler skabes sammenhæng for brugerne.
 * Myndighederne skal tilrettelægge forløbene, således at forløbene så vidt muligt tager højde for, at brugerne kan have forskellige ønsker i forhold til, hvilke sammenhænge opgaverne skal løses i og i hvilken rækkefølge og tidsmæssig udstrækning.
 * Hvis det skal være muligt for andre end brugeren selv at benytte selvbetjeningsløsningen, skal der være mulighed for, at en repræsentant kan anvende løsningen (med brug af fællesoffentlig fuldmagtsløsning).
@@ -738,7 +738,7 @@ Overdragelse kan også ske ved, at to eller flere myndigheder går sammen om at 
 
 Den enkleste form for overdragelse kan opnås, hvis selvbetjeningen deler brugerens status fællesoffentligt, og brugeren via portalerne (og andre steder, hvor data udstilles) selv bestemmer overdragelsens rækkefølge og tempo.
 
-I en række situationer giver det ikke mening, at brugeren fortsætter umiddelbart med det næste selvbetjeningsforløb, da gennemførelsen af dette kan afhænge af myndighedens godkendelse af den ansøgning, indberetning eller lignende, som det netop afsluttede selvbetjeningsforløb førte til. Hvis afrundingen afdækker, at det efterfølgende forløb kan være relevant for brugeren (når og hvis myndighedens godkendelse opnås), kan brugeren tilbydes at modtage en notifikation  (advis), når det foregående forløb er afsluttet. Et eksempel herpå kunne være en bruger, der efter gennemførelse af et selvbetjeningsforløb, der ændrer husstands- eller indtægtsforhold, ønsker at søge en ydelse, der afhænger af disse forhold. 
+I en række situationer giver det ikke mening, at brugeren fortsætter umiddelbart med det næste selvbetjeningsforløb, da gennemførelsen af dette kan afhænge af myndighedens godkendelse af den ansøgning, indberetning eller lignende, som det netop afsluttede selvbetjeningsforløb førte til. Hvis afrundingen afdækker, at det efterfølgende forløb kan være relevant for brugeren (når og hvis myndighedens godkendelse opnås), kan brugeren tilbydes at modtage en notifikation (advis), når det foregående forløb er afsluttet. Et eksempel herpå kunne være en bruger, der efter gennemførelse af et selvbetjeningsforløb, der ændrer husstands- eller indtægtsforhold, ønsker at søge en ydelse, der afhænger af disse forhold. 
 
 ##### Overdragelse af data
 
@@ -746,7 +746,7 @@ Myndighederne skal afklare behovet og mulighed for at overdrage information til 
 
 Er overdragelse opnået med et link, vil der være begrænsede muligheder for at medsende data om det netop afsluttede forløb til at målrette det efterfølgende forløb.
 
-Er der tale om en tættere koordination af selvbetjeningsforløbene kan oplysninger om de handlinger, der er foretaget – sammen med data fra den indledende afklaring – være en del af forberedelsen for det næste selvbetjeningsforløb. De data, myndigheden må og kan overdrage, lagres i overdragelseskonteksten . Når brugeren påbegynder næste skridt (aktiverer det næste selvbetjeningsforløb), medtages overdragelseskonteksten, således at forberedelse eller kernen i næste selvbetjeningsforløb kan tage eksplicit afsæt i det, brugeren har foretaget sig i det foregående selvbetjeningsforløb. Det bevirker blandt andet, at brugeren ikke bliver spurgt om det igen, og at selvbetjeningsforløbets flow fra starten er indrettet på de data, brugeren allerede har afgivet.
+Er der tale om en tættere koordination af selvbetjeningsforløbene kan oplysninger om de handlinger, der er foretaget – sammen med data fra den indledende afklaring – være en del af forberedelsen for det næste selvbetjeningsforløb. De data, myndigheden må og kan overdrage, lagres i overdragelseskonteksten. Når brugeren påbegynder næste skridt (aktiverer det næste selvbetjeningsforløb), medtages overdragelseskonteksten, således at forberedelse eller kernen i næste selvbetjeningsforløb kan tage eksplicit afsæt i det, brugeren har foretaget sig i det foregående selvbetjeningsforløb. Det bevirker blandt andet, at brugeren ikke bliver spurgt om det igen, og at selvbetjeningsforløbets flow fra starten er indrettet på de data, brugeren allerede har afgivet.
 
 Myndighederne skal i samarbejdet om en selvbetjeningskæde afklare, hvilke informationer der skal overdrages. Som udgangspunkt forventes det at være procesinformation (fx muligheden for at se, at der ligger en indsendt, men endnu ikke behandlet, flytning), som er relevant for og valid nok til at sikre en sammenhængende brugeroplevelse. Det kan også være oplysning om afgivne informationer, som ikke er godkendt af myndigheden.
 
@@ -758,7 +758,7 @@ Overdragelse af informationer kræver, at myndigheden har hjemmel til at videreg
 
 ##### Overdragelsesaftaler
 
-Når der er tale om overdragelse mellem ressortområder, skal der udarbejdes en overdragelsesaftale , der blandt andet kan indeholde:
+Når der er tale om overdragelse mellem ressortområder, skal der udarbejdes en overdragelsesaftale, der blandt andet kan indeholde:
 
 * En veldefineret angivelse af det punkt, hvor forvaltningsansvaret skifter fra det ene ansvarsområde til det næste.
 * En fastlæggelse af, hvilke informationer der kan overdrages mellem ressortområderne.
@@ -887,7 +887,7 @@ I praksis er der tale om en sammenhængende proces, der er tilrettelagt, så den
 
 Figur 9. Proces for forberedelse
 
-Selvbetjeningsforløbet kan startes ved at gå på borger.dk eller på kommunens hjemmeside for at orientere sig om, hvordan man søger boligstøtte. Her ledes man frem til selvbetjeningsforløbet, og når man klikker på linket, beder selvbetjeningsforløbet om et login via det fællesoffentlige eID , der identificerer ansøgeren gennem et to-faktor sikret certifikat. Herefter ledes brugeren gennem en interaktiv afklaring i tre trin, styret af selvbetjeningsløsningen. Der er undervejs i selvbetjeningsløsningen mulighed for at fremkalde hjælp eller vejledning. 
+Selvbetjeningsforløbet kan startes ved at gå på borger.dk eller på kommunens hjemmeside for at orientere sig om, hvordan man søger boligstøtte. Her ledes man frem til selvbetjeningsforløbet, og når man klikker på linket, beder selvbetjeningsforløbet om et login via det fællesoffentlige eID, der identificerer ansøgeren gennem et to-faktor sikret certifikat. Herefter ledes brugeren gennem en interaktiv afklaring i tre trin, styret af selvbetjeningsløsningen. Der er undervejs i selvbetjeningsløsningen mulighed for at fremkalde hjælp eller vejledning. 
 
 Hvor meget af forberedelse, der placeres på en portal, og hvor meget der ligger i selvbetjeningsløsningen er altid et konkret valg. I den udstrækning portalen kender en brugers kontekst, kan portalen tilpasse indholdet på baggrund af, hvad den ved om brugeren. Hvis borger.dk fx ved, at brugeren modtager boligstøtte, er folkepensionist og bor i Varde, så kan indholdet tilpasses hertil og dermed foretage en del af den interaktive afklaring.
 
