@@ -442,19 +442,19 @@ I arbejdet med selvbetjeningsløsninger skal der dels tages højde for den konkr
 
 Kravene i persondataloven er uddybet i sikkerhedsbekendtgørelsen. Tilsvarende gælder for krav til sikkerhed i nationale politikker som National strategi for cyber- og informationssikkerhed og Sikkerhedskrav i domæners digitale strategier. Endelig er Danmark nu forpligtet til at anerkende tillidstjenester fra andre EU/EØS-lande, fx når en bruger med sit eID ønsker at logge ind på en dansk selvbetjeningsløsning (eIDAS2 forordningen).
 
-Digitaliseringsstyrelsen og Justitsministeriet vejleder om de generelle love, regler mv., der skal indgå i arbejdet med informationssikkerhed .
+Digitaliseringsstyrelsen og Justitsministeriet vejleder om de generelle love, regler mv., der skal indgå i arbejdet med informationssikkerhed.
 
 Den ansvarlige myndighed for selvbetjeningsløsningen skal desuden afdække de krav, som den konkrete lovgivning på området stiller til selvbetjeningsløsningen, fx hvilke informationer der skal/ikke skal behandles, og hvilke informationer der må hentes fra og leveres til andre myndigheder. Denne afdækning kan blandt andet omfatte, om der skal indhentes samtykke til udveksling af information, samt at der kun hentes den information, som forvaltning af selvbetjeningsforløbets opgave har brug for.
 
 ##### Organisering
 
-Den enkelte myndighed skal som ansvarlig for sine selvbetjeningsløsninger etablere de relevante sikkerhedspolitikker og følge op på dem gennem fx overvågning, kontrol af logfiler og eventuel efterforskning af brud på sikkerheden. Såfremt driften af selvbetjeningsløsningen skal outsources, skal der hentes vejledning til at styrke sikkerheden i en rapport udarbejdet af Digitaliseringsstyrelsen og Center for Cybersikkerhed, der beskriver elleve konkrete anbefalinger til, hvordan sikkerheden i den outsourcede it-drift kan forbedres . I forbindelse med outsourcing skal der i henhold til sikkerhedsbekendtgørelsen udarbejdes en databehandleraftale.
+Den enkelte myndighed skal som ansvarlig for sine selvbetjeningsløsninger etablere de relevante sikkerhedspolitikker og følge op på dem gennem fx overvågning, kontrol af logfiler og eventuel efterforskning af brud på sikkerheden. Såfremt driften af selvbetjeningsløsningen skal outsources, skal der hentes vejledning til at styrke sikkerheden i rapporter og vejledninger, udarbejdet af Digitaliseringsstyrelsen og Center for Cybersikkerhed, der beskriver konkrete anbefalinger til, hvordan sikkerheden i den outsourcede it-drift kan forbedres. I forbindelse med outsourcing, skal der fx i henhold til sikkerhedsbekendtgørelsen, udarbejdes en databehandleraftale.
 
 ##### Informationer
 
 Analyse af informationssikkerheden bør omfatte en analyse af de informationer (data), der skal behandles i løsningen, hvilken grad af fortrolighed og følsomhed de har, og hvordan fortrolighed og integritet sikres bedst muligt.
 
-Som en del af analysen af information bør der gennemføres en konsekvensvurdering for privatlivets databeskyttelse (også kaldet Privacy Impact Assessment, PIA). For statslige myndigheder er denne konsekvensvurdering obligatorisk for projekter, der følger den fællesstatslige projekt- og programmodel. En skabelon til formålet kan findes på Digitaliseringsstyrelsens hjemmeside .  
+Som en del af analysen af information bør der gennemføres en konsekvensvurdering for privatlivets databeskyttelse (også kaldet Privacy Impact Assessment, PIA). For statslige myndigheder er denne konsekvensvurdering obligatorisk for projekter, der følger den fællesstatslige projekt- og programmodel. En skabelon til formålet kan findes på Digitaliseringsstyrelsens hjemmeside.  
    
 Databeskyttelsesforordningen fra EU (GDPR) skærper og erstatter krav til indholdet af en sådan vurdering (DPIA - Artikel 35), samt hvornår Datatilsynet skal konsulteres. En sådan konsekvensanalyse kan identificere behov for yderligere sikkerhedsforanstaltninger, der skal implementeres i tjenesten.
 
