@@ -412,7 +412,7 @@ I dette afsnit beskrives juridiske og sikkerhedsmæssige bindinger overordnet i 
 
 Borgeres og virksomheders brug af selvbetjeningsløsninger er omfattet af forvaltningsloven, persondataloven og lov om obligatorisk selvbetjening, EU’s databeskyttelsesforordning (persondataforordning) og af EU's webtilgængelighedsdirektiv. For selvbetjeningsløsninger, der kan anvendes af borgere fra EU/EØS-lande, vil eIDAS-forordningen også have betydning.
 
-Mange selvbetjeningsløsninger er omfattet af lovgivningen om obligatorisk digital selvbetjening. Folketinget har vedtaget i alt fire samlelove  om obligatorisk digital selvbetjening, som danner grundlaget for obligatorisk digital selvbetjening for borgere og virksomheder på en række områder, og som udmøntes i ændringer i den konkret faglovgivning.
+Mange selvbetjeningsløsninger er omfattet af lovgivningen om obligatorisk digital selvbetjening. Folketinget har vedtaget i alt fire samlelove om obligatorisk digital selvbetjening, som danner grundlaget for obligatorisk digital selvbetjening for borgere og virksomheder på en række områder, og som udmøntes i ændringer i den konkret faglovgivning.
 
 Desuden er selvbetjeningsløsninger omfattet af de pågældende myndigheders ressortlovgivning. Det betyder, at hver enkelt selvbetjeningsløsning skal være forankret hos en myndighed. Det betyder ligeledes, at myndigheder, der samarbejder om at kæde selvbetjeningsløsninger sammen, skal gøre det inden for rammerne af disse regler.
 
@@ -426,7 +426,7 @@ Den enkelte myndighed er ansvarlig for sikkerheden i egne selvbetjeningsløsning
 
 Arbejdet med sikkerhed kan med fordel bygge på koncepter og værktøjer for informationssikkerhedsstyring. 
 
-Det er obligatorisk for statslige myndigheder at anvende ISO 27001 . KL anbefaler alle kommuner at anvende ISO-standarden med henblik på at få en fælles, høj sikkerhedsstandard i den offentlige sektor, mens regionerne vil udarbejde en fællesregional informationssikkerhedspolitik, baseret på ISO 27001.
+Det er obligatorisk for statslige myndigheder at anvende ISO 27001. KL anbefaler alle kommuner at anvende ISO-standarden med henblik på at få en fælles, høj sikkerhedsstandard i den offentlige sektor, mens regionerne har udarbejdet en fællesregional informationssikkerhedspolitik, baseret på ISO 27001. [https://www.rm.dk/om-os/info-til-borgerne/Dine-data/informationssikkerhedspolitik/](https://www.rm.dk/om-os/info-til-borgerne/Dine-data/informationssikkerhedspolitik/)
 
 For selvbetjeningsløsninger er det udgangspunktet, at myndighederne ud fra en risikovurdering selv skal beslutte deres sikkerhedsniveau, hvilket også ligger i rollen som dataansvarlig i persondataloven. En sådan risikovurdering kan med fordel tage udgangspunkt i metodikken, defineret i ISO/IEC 27005, og styringen af informationssikkerhed kan med fordel tage afsæt i ISO/IEC 27001-standarden.
 
