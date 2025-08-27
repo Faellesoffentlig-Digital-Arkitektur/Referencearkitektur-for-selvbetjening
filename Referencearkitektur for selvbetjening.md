@@ -1356,46 +1356,4 @@ Nedenstående liste viser det baggrundsmateriale, der indgår i udarbejdelsen af
 | Regeringen                                             | Lov om behandling af personoplysninger; 2024. [https://www.retsinformation.dk/eli/lta/2018/502](https://www.retsinformation.dk/eli/lta/2018/502)                                                                                                                                                                                                                                                |
 | Styrelsen for Arbejdsmarked og Rekruttering            | Bekendtgørelse om obligatorisk digital selvbetjening vedrørende ansøgninger og meddelelser mv. om sociale ydelser mv.; 2020. [https://www.retsinformation.dk/eli/lta/2020/2003](https://www.retsinformation.dk/eli/lta/2020/2003)                                                                                                                                                      |
 
-## Fodnoter
-
-[\[1\]](#_ednref1) Myndighedernes virksomhedsrettede løsninger præsenteres/integreres på Virk, således at de fremstår som en del af Virk.
-
-[\[2\]](#_ednref2) Rigsrevisionen (2015): "Beretning om brugervenligheden af offentlig digital selvbetjening for virksomheder" [https://www.rigsrevisionen.dk/revisionssager-arkiv/2015/nov/beretning-om...](https://www.rigsrevisionen.dk/revisionssager-arkiv/2015/nov/beretning-om-brugervenligheden-af-offentlig-digital-selvbetjening-for-virksomheder)
-
-[\[3\]](#_ednref3) Servicedesign er tilrettelæggelse af de berøringsflader, der er mellem udbyder og slutbruger, fysiske som digitale, med udgangspunkt i brugerens perspektiv. Resultatet af servicedesign er den faktiske oplevelse af forbedring af [serviceniveauet](https://da.wikipedia.org/w/index.php?title=Serviceniveau&action=edit&redlink=1) hos slutbrugeren.
-
-[\[4\]](#_ednref4) Folketinget har vedtaget første samlelov lov nr. 558 af 18. juni 2012, anden samlelov lov nr. 622 af 12. juni 2013, tredje samlelov lov nr. 552 af 2. juni 2014 og fjerde samlelov lov nr. 742 af 1. juni 2015. [https://digst.dk/strategier/den-faellesoffentlige-digitaliseringsstrateg...](https://digst.dk/strategier/den-faellesoffentlige-digitaliseringsstrategi/tidligere-strategier/digitaliseringsstrategien-2011-2015/lovgivning-om-obligatorisk-digital-selvbetjening/)
-
-[\[5\]](#_ednref5) Nu MitID
-
-[\[6\]](#_ednref6) [http://arkitekturguiden.digitaliser.dk/principper/10](http://arkitekturguiden.digitaliser.dk/principper/10-overordnede-principper)[\-o](http://arkitekturguiden.digitaliser.dk/principper/10-overordnede-principper)[verordnede](http://arkitekturguiden.digitaliser.dk/principper/10-overordnede-principper)[\-](http://arkitekturguiden.digitaliser.dk/principper/10-overordnede-principper)[principper](http://arkitekturguiden.digitaliser.dk/principper/10-overordnede-principper)
-
-[\[7\]](#_ednref7) [https://arkitektur.digst.dk/node/241](https://arkitektur.digst.dk/node/241)
-
-[\[8\]](#_ednref8) Se også referencearkitektur for deling af data og dokumenter (2018) med fællesoffentlige integrationsmønstre.
-
-[\[9\]](#_ednref9) I Afsnit 7.1 ovenfor er der redegjort for de juridiske overvejelser, der er nødvendige. Juridiske overvejelser kan også omfatte muligheden for at gennem ændret lovgivning at skabe hjemmel til at anvende data.
-
-[\[10\]](#_ednref10) Se fx [https://fm.dk/udgivelser/2017/april/sammenhaengsreform-borgeren-foerst-en-mere-sammenhaengende-offentlig-sektor/](https://fm.dk/udgivelser/2017/april/sammenhaengsreform-borgeren-foerst-en-mere-sammenhaengende-offentlig-sektor/)
-
-[\[11\]](#_ednref11) Et eksempel er nystartede fødevarevirksomheder, der også vil servere alkohol. Fra Rigsrevisionens beretning [https://rigsrevisionen.dk/revisionssager-arkiv/2015/nov/beretning-om-bru...](https://rigsrevisionen.dk/revisionssager-arkiv/2015/nov/beretning-om-brugervenligheden-af-offentlig-digital-selvbetjening-for-virksomheder)
-
-[\[12\]](#_ednref12) Som i 2017 fx kan ske ved brug af beskedfordeler i KOMBIT-støttesystemer eller ved brug af Digital Post,
-
-[\[13\]](#_ednref13) Der skal gennemføres pilotprojekter i 2018, som skal afklare, hvilke informationer der er nyttige at overføre en overdragelse,
-
-[\[14\]](#_ednref14) En skabelon for udarbejdelse af en overdragelsesaftale er planlagt udarbejdet af Digitaliseringsstyrelsen til levering i 2018.
-
-[\[15\]](#_ednref15) Vejledning i integrationsmønstre med forskellige kvalitetsniveauer er planlagt udarbejdet af Digitaliseringsstyrelsen til levering i 2018.
-
-[\[16\]](#_ednref16) Nu MitID.
-
-[\[17\]](#_ednref17) Vejledning i integrationsmønstre med forskellige kvalitetsniveauer er planlagt udarbejdet af Digitaliseringsstyrelsen til levering i 2017.
-
-[\[18\]](#_ednref18) Microservices kan også anvendes sammen med synkrone services, men en hurtig smal asynkron servicebus byder på en række fordele.
-
-[\[19\]](#_ednref19) Dertil vil initiativ 7.1 til 7.4 i den fællesoffentlige digitaliseringsstrategi bidrage med opdatering og videreudvikling af redskaberne på sikkerhedsområdet.
-
-[\[20\]](#_ednref20) Nu MitID.
-
-[\[21\]](#_ednref21) Vejledning i integrationsmønstre med forskellige kvalitetsniveauer er planlagt udarbejdet af Digitaliseringsstyrelsen til levering i 2017.
+## SLUT
