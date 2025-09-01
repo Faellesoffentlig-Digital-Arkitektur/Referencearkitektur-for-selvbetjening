@@ -592,9 +592,29 @@ Implikationer
 
 I dette afsnit beskrives en terminologi og begrebsmodel for selvbetjeningsforløb. Begrebsmodellen er på et generelt og overordnet logisk niveau. Det betyder, at den ikke er bundet til en bestemt type person, organisation, anvendelse eller implementering.  
 
-![Figur 4.jpg](assets/Figur%204.jpg)
+![Figur 4.jpg](assets/Figur4_Digital_selvbetjening.svg)
 
 Figur 4. Begrebsmodel for selvbetjeningsforløb
+
+![Figur 4a.jpg](assets/Figur4a_Digital_selvbetjening_simpelt_overblik.svg)
+
+Figur 4a. Simpelt overblik over digital selvbetjening
+
+![Figur 4b.jpg](assets/Figur4b_Digital_selvbetjening_forberedelse.svg)
+
+Figur 4b. Forberedelse til digital selvbetjening
+
+![Figur 4.jpg](assets/Figur4c_Digital_selvbetjening_kerne.svg)
+
+Figur 4c. Kerne for digital selvbetjening
+
+![Figur 4.jpg](assets/Figur4d_Digital_selvbetjening_afrunding.svg)
+
+Figur 4d. Afrunding for digital selvbetjening
+
+![Figur 4.jpg](assets/Figur4e_Digital_selvbetjening_overdragelse.svg)
+
+Figur 4e. Overdragelse for digital selvbetjening
 
 Referencearkitektur for selvbetjening definerer begreberne i figuren ovenfor til at være de termer, som anvendes fællesoffentligt i kommunikation og debat om selvbetjeningsforløb og sammenkædning af disse. Tabellen nedenfor definerer og beskriver disse termer, i alfabetisk rækkefølge.
 
