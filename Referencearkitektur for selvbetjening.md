@@ -606,15 +606,15 @@ Figur 4b. Forberedelse til digital selvbetjening
 
 ![Figur 4.jpg](assets/Figur4c_Digital_selvbetjening_kerne.svg)
 
-Figur 4c. Kerne for digital selvbetjening
+Figur 4c. Kerne i digital selvbetjening
 
 ![Figur 4.jpg](assets/Figur4d_Digital_selvbetjening_afrunding.svg)
 
-Figur 4d. Afrunding for digital selvbetjening
+Figur 4d. Afrunding i digital selvbetjening
 
 ![Figur 4.jpg](assets/Figur4e_Digital_selvbetjening_overdragelse.svg)
 
-Figur 4e. Overdragelse for digital selvbetjening
+Figur 4e. Overdragelse i digital selvbetjening
 
 Referencearkitektur for selvbetjening definerer begreberne i figuren ovenfor til at være de termer, som anvendes fællesoffentligt i kommunikation og debat om selvbetjeningsforløb og sammenkædning af disse. Tabellen nedenfor definerer og beskriver disse termer, i alfabetisk rækkefølge.
 
@@ -623,7 +623,7 @@ Referencearkitektur for selvbetjening definerer begreberne i figuren ovenfor til
 | Modelnavn               | Digital selvbetjening                                                                                |
 | Modelejer               | Digitaliseringsstyrelsen                                                                             |
 | Versionsnummer          | 1.0.2                                                                                                |
-| Seneste opdateringsdato | 01-08-2025                                                                                          |
+| Seneste opdateringsdato | 01-09-2025                                                                                          |
 | Modelstatus             | Stabil                                                                                               |
 | Godkendelsesstatus      | Godkendt                                                                                             |
 | Forretningsområde       | 06.38.10.10 Arkitektur for den digitale infrastruktur                                                |
