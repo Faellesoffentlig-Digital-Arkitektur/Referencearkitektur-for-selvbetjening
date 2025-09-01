@@ -602,7 +602,7 @@ Figur 4a. Simpelt overblik over digital selvbetjening
 
 ![Figur 4b.jpg](assets/Figur4b_Digital_selvbetjening_forberedelse.svg)
 
-Figur 4b. Forberedelse til digital selvbetjening
+Figur 4b. Forberedelse i digital selvbetjening
 
 ![Figur 4.jpg](assets/Figur4c_Digital_selvbetjening_kerne.svg)
 
