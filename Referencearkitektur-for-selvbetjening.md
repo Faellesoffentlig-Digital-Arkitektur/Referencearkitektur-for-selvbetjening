@@ -2,7 +2,7 @@
 
 ## Forord
 
-Denne referencearkitektur er udarbejdet som led i realiseringen af initiativerne i de fællesoffentlige digitaliseringsstrategier.
+Denne e referencearkitektur er udarbejdet som led i realiseringen af initiativerne i de fællesoffentlige digitaliseringsstrategier.
 
 Fællesoffentlig referencearkitektur for selvbetjening skal bidrage til at målrette indsatsen for at skabe sammenhængende, effektive, sikre og brugervenlige løsninger for borgere og virksomheder og økonomiske gevinster i de offentlige myndigheder, fx gennem færre supporthenvendelser og et bedre samspil mellem forskellige myndigheders selvbetjeningsløsninger. 
 
