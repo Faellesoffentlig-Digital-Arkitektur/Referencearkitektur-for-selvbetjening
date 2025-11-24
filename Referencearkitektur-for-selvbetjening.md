@@ -618,17 +618,17 @@ Figur 4e. Overdragelse i digital selvbetjening
 
 Referencearkitektur for selvbetjening definerer begreberne i figuren ovenfor til at være de termer, som anvendes fællesoffentligt i kommunikation og debat om selvbetjeningsforløb og sammenkædning af disse. Tabellen nedenfor definerer og beskriver disse termer, i alfabetisk rækkefølge.
 
-|                         |                                                                                                      |
-| ----------------------- | ---------------------------------------------------------------------------------------------------- |
-| Modelnavn               | Digital selvbetjening                                                                                |
-| Modelejer               | Digitaliseringsstyrelsen                                                                             |
-| Versionsnummer          | 1.0.2                                                                                                |
-| Seneste opdateringsdato | 01-09-2025                                                                                           |
-| Modelstatus             | Stabil                                                                                               |
-| Godkendelsesstatus      | Godkendt                                                                                             |
-| Forretningsområde       | 06.38.10.10 Arkitektur for den digitale infrastruktur                                                |
-| Juridisk kilde          | [https://www.retsinformation.dk/eli/lta/2021/1584](https://www.retsinformation.dk/eli/lta/2021/1584) |
-| Kilde                   | Fællesoffentlig referencearkitektur for selvbetjening                                                |
+|                          |                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Modelnavn                | Digital selvbetjening                                                                                |
+| Modelejer                | Digitaliseringsstyrelsen                                                                             |
+| Versionsnummer           | 1.0.2                                                                                                |
+| Seneste opdateringsdato  | 01-09-2025                                                                                           |
+| Modelstatus              | Stabil                                                                                               |
+| Godkendelsesstatus       | Godkendt                                                                                             |
+| Forretningsområde        | 06.38.10.10 Arkitektur for den digitale infrastruktur                                                |
+| Juridisk kilde           | [https://www.retsinformation.dk/eli/lta/2021/1584](https://www.retsinformation.dk/eli/lta/2021/1584) |
+| Kilde                    | Fællesoffentlig referencearkitektur for selvbetjening                                                |
 
 | Term                     | Definition                                                                                                                                                                  | Note                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Kilde                                 |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
