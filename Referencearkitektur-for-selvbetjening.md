@@ -623,7 +623,7 @@ Referencearkitektur for selvbetjening definerer begreberne i figuren ovenfor til
 | Modelnavn               | Digital selvbetjening                                                                                |
 | Modelejer               | Digitaliseringsstyrelsen                                                                             |
 | Versionsnummer          | 1.0.2                                                                                                |
-| Seneste opdateringsdato | 01-09-2025                                                                                          |
+| Seneste opdateringsdato | 01-09-2025                                                                                           |
 | Modelstatus             | Stabil                                                                                               |
 | Godkendelsesstatus      | Godkendt                                                                                             |
 | Forretningsområde       | 06.38.10.10 Arkitektur for den digitale infrastruktur                                                |
