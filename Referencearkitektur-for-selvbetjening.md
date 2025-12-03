@@ -619,7 +619,7 @@ Figur 4e. Overdragelse i digital selvbetjening
 Referencearkitektur for selvbetjening definerer begreberne i figuren ovenfor til at være de termer, som anvendes fællesoffentligt i kommunikation og debat om selvbetjeningsforløb og sammenkædning af disse. Tabellen nedenfor definerer og beskriver disse termer, i alfabetisk rækkefølge.
 
 |                          |                                                                                                      |
-| :------------------------ | :--------------------------------------------------------------------------------------------------- |
+| ------------------------- | ---------------------------------------------------------------------------------------------------: |
 | Modelnavn                | Digital selvbetjening                                                                                |
 | Modelejer                | Digitaliseringsstyrelsen                                                                             |
 | Versionsnummer           | 1.0.2                                                                                                |
