@@ -264,7 +264,7 @@ Løsningsmæssigt kan selvbetjeningsløsninger tilgås fra myndighedens hjemmesi
 
 Digitaliseringsstyrelsen udarbejder løbende vejledninger til gode selvbetjeningsløsninger. Disse findes på Digitaliseringsstyrelsens hjemmeside.
 
-Der er ikke etableret yderligere styringsmæssige rammer for selvbetjeningsløsninger, der indgår i selvbetjeningskæder på tværs af myndigheder. Det må aftales mellem de involverede myndigheder i hvert enkelt tilfælde gennem en overdragelsesaftale, som sikrer, at alle forhold er afklaret mellem myndighederne med hensyn til overdragelse af data, kvaliteten af disse data og transporten af dem. Dette redegøres der nærmere for i [afsnittet om forretningskapabiliteter](#Forretningskapabiliteter).
+Der er ikke etableret yderligere styringsmæssige rammer for selvbetjeningsløsninger, der indgår i selvbetjeningskæder på tværs af myndigheder. Det må aftales mellem de involverede myndigheder i hvert enkelt tilfælde gennem en overdragelsesaftale, som sikrer, at alle forhold er afklaret mellem myndighederne med hensyn til overdragelse af data, kvaliteten af disse data og transporten af dem. Dette redegøres der nærmere for i [afsnittet om forretningskapabiliteter](#forretningskapabiliteter).
 
 ### Vision, scope og mål
 
