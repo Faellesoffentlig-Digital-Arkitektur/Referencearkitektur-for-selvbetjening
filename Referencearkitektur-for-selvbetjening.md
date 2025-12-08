@@ -1251,7 +1251,7 @@ Regler, som skal kunne afvikles af et program, skal beskrives entydigt og fuldst
 
 #### Krav til sikkerhed
 
-I [afsnittet Sikkerhed](#Sikkerhed) er de overordnede krav til sikkerhed beskrevet.
+I [afsnittet Sikkerhed](#sikkerhed) er de overordnede krav til sikkerhed beskrevet.
 
 Her beskrives mere detaljerede anvisninger til sikkerhed som følge af, at selvbetjeningsløsninger indgår i samspil med brugerudstyr, andre tjenester og infrastruktur.
 
