@@ -146,7 +146,7 @@ Referencearkitekturen kan anvendes i sammenhæng med andre fællesoffentlige ref
 
 Generelt kan en referencearkitekturs rolle illustreres ved følgende figur:
 
-![Figur 1.jpg](assets/Figur%201.jpg)
+![Figur 1.svg](assets/Figur%201.svg)
 
 Figur 1. Referencearkitekturens rolle
 
@@ -219,7 +219,7 @@ Med arkitektens perspektiv beskrives det som et selvbetjeningsforløb med forber
 
 Referencearkitekturen beskriver desuden rammerne for, at brugerrejser, der omfatter flere selvbetjeningsforløb, kan kædes sammen i selvbetjeningskæder med efterfølgende større brugertilfredshed. Selvbetjeningsforløb kædes sammen gennem overdragelse, og referencearkitekturen tager højde for, at overdragelse kan ske mellem forskellige ressortområder.
 
-![Figur 2.jpg](assets/Figur%202.jpg)
+![Figur 2.svg](assets/Figur%202.svg)
 
 Figur 2. Selvbetjeningsforløb
 
@@ -250,7 +250,7 @@ Fra forberedelse i boligstøtteløsningen kan borgeren så gå videre til flytte
 
 I dette tilfælde kan flytningen gennemføres som en straksafgørelse. Borgeren får derfor også som en del af afrundingen at vide, at han (gennem en overdragelse (6)) kan vende tilbage til boligstøtteansøgningen og færdiggøre denne. 
 
-![Figur 3.jpg](assets/Figur%203.jpg)
+![Figur 3.svg](assets/Figur%203.svg)
 
 Figur 3. Selvbetjeningskæde med to sammenkædede selvbetjeningsforløb, der løser hver sin opgave
 
@@ -592,27 +592,27 @@ Implikationer
 
 I dette afsnit beskrives en terminologi og begrebsmodel for selvbetjeningsforløb. Begrebsmodellen er på et generelt og overordnet logisk niveau. Det betyder, at den ikke er bundet til en bestemt type person, organisation, anvendelse eller implementering.  
 
-![Figur 4.jpg](assets/Figur4_Digital_selvbetjening.svg)
+![Figur 4.svg](assets/Figur4_Digital_selvbetjening.svg)
 
 Figur 4. Begrebsmodel for selvbetjeningsforløb
 
-![Figur 4a.jpg](assets/Figur4a_Digital_selvbetjening_simpelt_overblik.svg)
+![Figur 4a.svg](assets/Figur4a_Digital_selvbetjening_simpelt_overblik.svg)
 
 Figur 4a. Simpelt overblik over digital selvbetjening
 
-![Figur 4b.jpg](assets/Figur4b_Digital_selvbetjening_forberedelse.svg)
+![Figur 4b.svg](assets/Figur4b_Digital_selvbetjening_forberedelse.svg)
 
 Figur 4b. Forberedelse i digital selvbetjening
 
-![Figur 4.jpg](assets/Figur4c_Digital_selvbetjening_kerne.svg)
+![Figur 4.svg](assets/Figur4c_Digital_selvbetjening_kerne.svg)
 
 Figur 4c. Kerne i digital selvbetjening
 
-![Figur 4.jpg](assets/Figur4d_Digital_selvbetjening_afrunding.svg)
+![Figur 4.svg](assets/Figur4d_Digital_selvbetjening_afrunding.svg)
 
 Figur 4d. Afrunding i digital selvbetjening
 
-![Figur 4.jpg](assets/Figur4e_Digital_selvbetjening_overdragelse.svg)
+![Figur 4.svg](assets/Figur4e_Digital_selvbetjening_overdragelse.svg)
 
 Figur 4e. Overdragelse i digital selvbetjening
 
@@ -685,7 +685,7 @@ Figur 5 viser en oversigt over de opgaver, der skal løses i forbindelse med sel
    
  
 
-![Figur 5.jpg](assets/Figur%205.jpg)
+![Figur 5.svg](assets/Figur%205.svg)
 
 Figur 5. Kapabiliteter og aktører i selvbetjeningsforløb og selvbetjeningskæder
 
@@ -811,7 +811,7 @@ I de selvbetjeningsforløb, der realiseres med flere selvbetjeningsløsninger, f
 
 Når selvbetjeningsforløbet er afsluttet, lagres (persisteres) de informationer, der er nødvendige for sagsbehandling og logning. Myndigheden skal afklare, om den har hjemmel til, at informationer kan anvendes til andre formål hos myndigheden, fx opdatering af brugerprofiler. Hvis ikke skal der indhentes samtykke.
 
-![Figur 6.jpg](assets/Figur%206.jpg)
+![Figur 6.svg](assets/Figur%206.svg)
 
 Figur 6. Funktionaliteten af selvbetjeningskonteksten
 
@@ -819,7 +819,7 @@ Figur 6. Funktionaliteten af selvbetjeningskonteksten
 
 En overdragelseskontekst er den del af selvbetjeningskonteksten, som har relevans for et givent efterfølgende selvbetjeningsforløb, og som ikke kræver efterfølgende myndighedsgodkendelse eller verificering, før det kan anvendes i det efterfølgende forløb. Hvis overdragelsen sker på tværs af forvaltnings-/myndighedsgrænser, kræver det hjemmel eller et samtykke fra brugeren.
 
-![Figur 7.jpg](assets/Figur%207.jpg)
+![Figur 7.svg](assets/Figur%207.svg)
 
 Figur 7. Funktionaliteten ”overdragelseskontekst”
 
@@ -894,7 +894,7 @@ Processer for selvbetjening kan have mange forskellige forløb og omfang. Det ka
 
 I det følgende beskrives et enkelt selvbetjeningsforløb som nedenstående (uddrag af figur i [afsnittet om beskrivelse af emnet selvbetjening](#Beskrivelse-af-emnet-selvbetjening).)
 
-![Figur 8.jpg](assets/Figur%208.jpg)
+![Figur 8.svg](assets/Figur%208.svg)
 
 Figur 8. Enkelt forløb
 
@@ -904,7 +904,7 @@ Som gennemgående eksempel er valgt ansøgning om boligstøtte. Her beskrives pr
 
 I praksis er der tale om en sammenhængende proces, der er tilrettelagt, så den opleves som én brugerrejse. I eksemplet er overdragelse konstrueret - det er ikke en del af det eksisterende selvbetjeningsforløb for boligstøtte. 
 
-![Figur 9.jpg](assets/Figur%209.jpg)
+![Figur 9.svg](assets/Figur%209.svg)
 
 Figur 9. Proces for forberedelse
 
@@ -929,7 +929,7 @@ I hele selvbetjeningsforløbet er der hele tiden mulighed for at kontakte Udbeta
 Når man er igennem afklaringen, er det sikret, at man starter korrekt på selvbetjeningsforløbets kerne.       
  
 
-![Figur 12.jpg](assets/Figur%2012.jpg)
+![Figur 12.svg](assets/Figur%2012.svg)
 
 Figur 12. Kernen i selvbetjeningsforløbet
 
@@ -952,7 +952,7 @@ Hele vejen gennem forløbet bliver oplysningerne valideret - også op imod forre
 Til sidst kan brugeren inspicere resultatet af indtastningerne og gennem en markering angive, at oplysningerne er korrekte, og at brugeren afgiver samtykke til at indhente og videregive de oplysninger, der er nødvendige for at gennemføre ansøgningen. Med dette samtykke er man sømløst startet på selvbetjeningsforløbets afrunding.   
  
 
-![Figur 15.jpg](assets/Figur%2015.jpg)
+![Figur 15.svg](assets/Figur%2015.svg)
 
 Figur 15. afrunding og overdragelse
 
@@ -1004,7 +1004,7 @@ Figur 16. Mulige komponenter i selvbetjeningsforløb viser mulige komponenter ti
 Der er i beskrivelsen af komponenter i dette afsnit lagt vægt på at beskrive disse på en måde, så det ikke medfører krav om konkrete teknologier eller produkter. I [afsnittet om realiseringsmodeller](#Realiseringsmodeller) er der beskrevet mulige realiseringsmodeller for nogle af komponenterne.  
  
 
-![Figur 16.jpg](assets/Figur%2016.jpg)
+![Figur 16.svg](assets/Figur%2016.svg)
 
 Figur 16. Mulige komponenter i selvbetjeningsforløb
 
@@ -1185,7 +1185,7 @@ Infrastruktursynsvinkelen dækker to områder:
 * Dels de komponenter og services, som der udvikles og drives fællesoffentligt med henblik på at facilitere interoperabilitet på tværs af blandt andet alle offentlige digitale løsninger.
 * Dels services, lager og netværkskomponenter, der implementerer hosting-services og netværksservices. Denne referencearkitektur beskriver ikke komponenter på dette område.
 
-![Figur 17.jpg](assets/Figur%2017.jpg)
+![Figur 17.svg](assets/Figur%2017.svg)
 
 Figur 17. Teknologisk synsvinkel - Infrastruktur
 
