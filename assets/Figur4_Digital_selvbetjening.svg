@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.71cm" height="17.20cm" viewBox="0 0 1274 650">
 <title></title>
@@ -7,10 +6,10 @@
 
 <g style="fill:#FFFFFF;fill-opacity:1.00;">
 	 <rect x="0" y="0" width="1274" height="650" shape-rendering="auto"/>
-</g><g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00">
+</g><g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:0.00; stroke:#D3C1BD; stroke-opacity:1.00">
   <path d="M 6 6 L 6 644 L 1268 644 L 1268 6 L 6 6" shape-rendering="auto"/>
 </g>
-<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#FFFFFF;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00">
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#FFFFFF;fill-opacity:1.00; stroke:#D3C1BD; stroke-opacity:1.00">
   <polygon points="6 26 115 26 128 12 128 6 6 6 6 26" shape-rendering="auto"   style="fill-rule:evenodd;"/>
 </g>
 <g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00">
