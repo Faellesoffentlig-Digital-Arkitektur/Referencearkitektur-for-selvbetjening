@@ -1378,4 +1378,4 @@ Nedenstående liste viser det baggrundsmateriale, der indgår i udarbejdelsen af
 | Styrelsen for Arbejdsmarked og Rekruttering            | Bekendtgørelse om obligatorisk digital selvbetjening vedrørende ansøgninger og meddelelser mv. om sociale ydelser mv.; 2020. [https://www.retsinformation.dk/eli/lta/2020/2003](https://www.retsinformation.dk/eli/lta/2020/2003)                                                                                                                                                      |
 |                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-## SLUT
+
